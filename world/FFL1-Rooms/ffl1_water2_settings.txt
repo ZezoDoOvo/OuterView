@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.2864448
+WaveLength: 0.8932225
+WaveAmplitude: 4.29214E-14
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 17
+EffectColorA: 5
+EffectColorB: 7
+Effects: Hue-0.5-20-20, 
+PlacedObjects: ColouredLightSource><1292.647><529.8286><100~50~FF0000~50^-18~1~True~0.5~0~0.5~Always~0~100, ColouredLightSource><1294.432><530.0819><100~50~FF0000~96^-86~1~False~0.5~0~0.5~Always~0~100, WallLight><1891.101><116.3831><-169~205~1891.101~116.3831~-2~235~-1699~-19~-1693~261~0.4021739~0.4891304~0.3913043~False~SkyColor~False~False~Always~Soft, LightSource><1802.772><503.1989><1~Environment~24~164~50~86.60254~1~0~Fade~0~0, RoomPopupTrigger><976.4766><201.5513><76~28~You feel a strange energy but not like before~0~6~-1~4~True~True~-1, LightSource><1551.953><447.6944><0.09782609~Environment~0~100~50~86.60254~1~0~None~0~0, LightSource><1816.091><519.6283><1~Environment~0~100~50~86.60254~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_IND-12thFloor.ogg><739.0756><354.3479><0.5><1, OMNI><RWTW_AmbFlowDrip.ogg><756.6671><415.8598><0.2717391><1, 

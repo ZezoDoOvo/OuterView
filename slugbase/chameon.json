@@ -1,0 +1,45 @@
+{
+"id": "chameon",
+"name": "Chameon",
+"description": "caneta azul",
+"features":
+{
+"color": "494949",
+"start_room": "FFL1_S01",
+
+"select_menu_scene": "menu_chameon",
+
+"auto_grab_batflies": false,
+"weight": [0.9, 0.7],
+"tunnel_speed": [0.9, 0.7],
+"climb_speed": [0.9, 0.7],
+"walk_speed": [0.9, 0.7],
+"crouch_stealth": [0.9, 0.7],
+"throw_skill": [2, 1.5],
+"lung_capacity": [0.9, 0.7],
+"loudness": [0.9, 0.7],
+"diet":
+{
+"corpses": 0.2,
+  "plants": 0.5,
+"meat": 0.5,
+"overrides":
+{
+"Mushroom": 3,
+"KarmaFlower": 3
+}
+},
+"back_spear": false,
+"can_maul": true,
+"maul_damage": 0.5,
+"karma": 4,
+"karma_cap": 4,
+"the_mark": true,
+"the_glow": false,
+"guide_overseer": 0,
+
+"food_min": 5,
+"food_max": 9
+}
+
+}

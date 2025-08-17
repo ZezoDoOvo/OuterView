@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.3684701
+WaveLength: 0.934235
+WaveAmplitude: 0.01724607
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2173913
+Palette: 34
+EffectColorB: 18
+Effects: DayNight-0.9673913-20-20, Flies-0.1630435-30-30, Beetle-0.04347826-40-40, FireFlies-0.0326087-50-50, 
+PlacedObjects: DayNightSettings><207.313><2781.179><5~8.660254~23~58, OEsphere><1800.95><2990.807><47~97~54~-168.3975~30~1, ScavengerOutpost><1177.194><2605.2><19~126~-113~-239~0.2136058~75~98, ClimbableArc><1199.131><2739.84><0;0^6;42^25;145^18;100, Corruption><3698.945><1383.194><0~100, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><730.9314><486.8121><0.3043478><1, OMNI><AM_ENV-WinterTrees.ogg><725.0844><382.9313><0.5><1, 
+FadePalette: 54, 0.423913, 0.3478261, 0.2065217, 0.1195652, 0.06521739, 0.02173913, 0
+MorePalette0: 17, 0, 0.04347826, 0.1304348, 0.2065217, 0.3152174, 0.4130435, 0.5

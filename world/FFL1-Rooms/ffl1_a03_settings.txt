@@ -1,0 +1,26 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5042065
+WaveLength: 0.9978967
+WaveAmplitude: 0.006151959
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.75
+Palette: 36
+TerrainLight: 0
+TerrainStainAmount: 0.5869565
+TerrainStainBrightness: 0.4456522
+TerrainStainHeight: 1
+TerrainWaves: 0.8043478
+TerrainEdgeRadius: 164.3478
+TerrainGooHeight: 1
+TerrainGrain: 1
+TerrainDepth: 0.9239131
+TerrainSkyFade: 1
+TerrainPalette: badlands
+Effects: Bloom-1-20-20, HeatWave-0.25-30-30, LocustSwarmConfig-0.1195652,0.4673913,0.4565217,0,0.1847826-36-57, SandPuffs-0.7608696-40-40, DayNight-1-50-50, 
+PlacedObjects: TerrainHandle><153.5923><64.62695><-40~0~40~0~115, TerrainHandle><840.7161><88.94711><-40~0~40~0~86, TerrainHandle><4539.025><50.69846><-40~0~40~0~57, TerrainSunOffset><4210.305><58.54612><32~316, LocustCloud><350.2723><494.1985><136~1, TerrainRubble><571.2674><43.79626><-9~35, TerrainRubble><746.0573><49.44636><-14~86, LocustCloud><5197.352><592.1155><102~51, ClimbableArc><5134.45><299.7474><0;0^-5;42^156;24^78;7, ClimbableArc><5103.587><258.8845><0;0^0;40^-77;52^-33;36, ClimbableArc><5041.948><234.1931><0;0^22;44^-20;52^-57;10, LocustCloud><1234.195><699.284><95~-3, LocustCloud><1744.942><521.4447><141~-12, MudPit><49.37573><65.84326><171~46~15, SandGrubHole><1933.55><87.26024><, SandGrubHole><921.4731><100.4482><, SandGrubHole><2128.283><86.05276><, SandGrubHole><2932.55><62.23539><, SandGrubHole><2487.941><69.19291><, SandGrubHole><4643.325><51.06442><, SandGrubNetwork><-17.05438><458.9583><0~0~2~3~0.5~0.5~0.5, SandGrubNetwork><78.34359><352.5732><0~0~2~3~0.5~0.5~0.5, SandGrubNetwork><-112.5964><309.5748><0~0~2~3~0.5~0.5~1, TerrainHandle><4681.308><48.69401><-40~0~43~-6~53, DayNightSettings><263.3554><255.1118><5~8.660254~23~10, LocustCloud><4669.563><445.822><0~100, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><770.7095><486.8042><0.4673913><1, OMNI><AM_WIN_Hilltop.ogg><765.6486><455.6339><0.4347826><1, OMNI><Deep Weird Wind.wav><731.564><414.9265><0.326087><1, 
+FadePalette: 30, 0.6739131, 0.6847826, 0.6847826, 0.6847826, 0.6847826
+TerrainFadePalette: badlands, 1, 1, 1, 1, 1
+WetTerrain: OFF

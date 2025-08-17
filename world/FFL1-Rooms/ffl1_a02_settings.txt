@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5667589
+WaveLength: 0.9666205
+WaveAmplitude: 5.976912E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.75
+Palette: 36
+EffectColorA: 9
+EffectColorB: 8
+TerrainDepth: 0.2173844
+TerrainPalette: badlands
+Effects: Bloom-1-20-20, LocustSwarmConfig-0.1304348,0.4130435,0.423913,0,0.1304348-30-30, DayNight-1--18--11, 
+PlacedObjects: ClimbableRope><683.8><789.7467><1^-94, ClimbableArc><873.0654><1500.811><0;0^57;103^-4;195^-28;99, TerrainHandle><3341.073><67.51508><-47~-6~40~-1~-29, CustomDecal><3265.829><705.1465><15~276~310~345~329~-38~-205~70~0~1~0~rust2~1~0~1~0~1~0~1~0, LocustCloud><1206.196><1068.278><128~-29, LocustCloud><3886.572><629.5784><121~7, MudPit><1054.053><85.71458><200~15~15, TerrainRubble><951.3652><120.3341><0~100, DayNightSettings><3172.772><361.0513><5~8.660254~23~10, 
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><708.573><412.5638><0.4021739><1, OMNI><AM_ENV-WinterTrees.ogg><744.3395><385.8693><0.4565217><1, OMNI><AM_ENV-NatWind.ogg><759.3768><493.9075><0.4673913><1, OMNI><AM_WIN_Hilltop.ogg><726.394><464.6696><0.4347826><1, 
+FadePalette: 30, 0.5543478, 0.5652174, 0.5543478, 0.5543478, 0.5760869, 0.5869565, 0.5869565
