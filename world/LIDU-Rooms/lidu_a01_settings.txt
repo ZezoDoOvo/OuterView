@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 34
+EffectColorB: 5
+MorePalette0: 2, 0.2282609, 0.2282609, 0.2282609
+MorePalette1: 34, 0.3695652, 0.3695652, 0.3695652
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><748.125><487.5939><0.2065217><1, OMNI><AM_ENV-Outside.ogg><745.45><475.7453><0.5><1, OMNI><AM_WIN-HowlingWnd.ogg><754.288><554.3036><0.5543478><1, 
+FadePalette: 29, 0, 0, 0
