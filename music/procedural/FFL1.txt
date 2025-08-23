@@ -10,4 +10,9 @@ TH_FFL1 - Sizer (1) : NEUTRAL
 TH_FFL1 - Sizer : NEUTRAL
 TH_FFL1 - Vanilla : NEUTRAL
 
-Layer : 
+Layer : TH_FFL1 - Vanilla
+Layer : TH_FFL1 - Vanilla, TH_FFL1 - Midnight
+Layer : TH_FFL1 - Vanilla, TH_FFL1 - Midnight (2), TH_FFL1 - Midnight, TH_FFL1 - Ooh Mixed Choir
+Layer : TH_FFL1 - Vanilla, TH_FFL1 - Midnight (2), TH_FFL1 - Midnight, TH_FFL1 - Ooh Mixed Choir, TH_FFL1 - Sizer, TH_FFL1 - Metropolis
+Layer : TH_FFL1 - Vanilla, TH_FFL1 - Midnight (2), TH_FFL1 - Midnight, TH_FFL1 - Ooh Mixed Choir, TH_FFL1 - Sizer, TH_FFL1 - Metropolis, TH_FFL1 - Brixton Bass
+Layer : TH_FFL1 - Vanilla, TH_FFL1 - Midnight (2), TH_FFL1 - Midnight, TH_FFL1 - Ooh Mixed Choir, TH_FFL1 - Sizer, TH_FFL1 - Metropolis, TH_FFL1 - Lucid

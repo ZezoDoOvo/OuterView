@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.03970544
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 36
+EffectColorA: 19
+EffectColorB: 3
+PlacedObjects: BlackSpot><960.4352><269.6744><-7~49~42~76~40~-48, BlackSpot><956.093><253.374><-10~75~62~87~56~-17, Corruption><1420.221><481.9479><0~100, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><731.5508><484.7675><0.5543478><1, OMNI><AM_WIN_Hilltop.ogg><743.6064><459.1108><0.4565217><1, OMNI><locustCloudFar.ogg><726.3014><394.7736><0.3804348><1, OMNI><Basic Mech.wav><649.882><305.4115><0.3804348><1, 
+FadePalette: 30, 0.5869565, 0.5760869

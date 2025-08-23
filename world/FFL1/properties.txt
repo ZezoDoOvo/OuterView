@@ -1,3 +1,6 @@
-corruptionEffectColor: 0.7,0.7,0.4
-corruptionEyeColor: 0.5,0.3,0
-Room_Attr: FFL1_A04: MirosBird-Stay
+corruptionEffectColor: 0.8, 0.5, 0.4
+corruptionEyeColor: 0.4, 0.2, 0.2
+overseersSpawnChance: 0
+overseersMin: 0
+overseersMax: 0
+Room_Attr: FFL1_TEST: Spark Eye-Stay
