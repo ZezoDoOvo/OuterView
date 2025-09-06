@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.08695652
+RumbleIntensity: 0
+Palette: 30
+EffectColorB: 21
+Effects: DayNight-0.9130435-282-117, Sentient Rot Infection-0.6413044-736-498, Sentient Rot Spores-0.1304348-5-179, Flies-0.3204036-0-0, Desaturation-0.04347826-34-77, SilenceWater-0.1086956-37-125, Coldness-0.06521739-32-156, Darkness-0.4130435-20-20, 
+PlacedObjects: DayNightSettings><255.6983><1086.057><5~8.660254~58~10, Corruption><334.1718><1974.852><-5~109, Corruption><549.5645><1923.189><10~41, CorruptionTube><334.5603><1981.063><216~-68, Corruption><214.1414><1343.859><11~174, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><748.4493><479.4833><0><1, OMNI><RWTW_RotAmb_Deep.ogg><0><0><0.2><1, OMNI><RWTW_RotAmb_Deep.ogg><0><0><0.2><0.1, OMNI><AM_WIN_Hilltop.ogg><719.1631><457.6343><0.5><1, OMNI><Mech Multiactive Highpass.wav><751.8036><339.212><0.2065217><1, 
+FadePalette: 42, 0, 0.02173913, 0.07608695
+BackgroundOffset: 3695.652,543.4781
