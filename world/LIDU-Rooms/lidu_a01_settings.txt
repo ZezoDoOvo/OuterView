@@ -2,7 +2,9 @@ Template: NONE
 DangerType: None
 Palette: 34
 EffectColorB: 5
+Effects: DayNight-0.8913044-20-20, Fog-0.7065217-30-30, 
+PlacedObjects: ClimbableArc><997.6991><2023.019><0;0^0;40^172;176^121;159, ClimbableArc><997.3135><1961.928><0;0^0;40^151;277^161;-19, ClimbableArc><1011.309><2106.06><0;0^0;40^156;118^117;108, ClimbableArc><1028.306><2069.049><0;0^0;40^107;155^-15;73, ClimbableArc><1016.59><2160.572><0;0^0;40^90;87^90;47, DayNightSettings><242.9221><1824.102><5~8.660254~58~10, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><748.125><487.5939><0.2065217><1, OMNI><AM_ENV-Outside.ogg><745.45><475.7453><0.5><1, OMNI><AM_WIN-HowlingWnd.ogg><754.288><554.3036><0.5543478><1, 
+FadePalette: 30, 0.02173913, 0.0326087, 0.06521739
 MorePalette0: 2, 0.2282609, 0.2282609, 0.2282609
 MorePalette1: 34, 0.3695652, 0.3695652, 0.3695652
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><748.125><487.5939><0.2065217><1, OMNI><AM_ENV-Outside.ogg><745.45><475.7453><0.5><1, OMNI><AM_WIN-HowlingWnd.ogg><754.288><554.3036><0.5543478><1, 
-FadePalette: 29, 0, 0, 0

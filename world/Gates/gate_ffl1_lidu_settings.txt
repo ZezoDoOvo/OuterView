@@ -1,9 +1,9 @@
 Template: NONE
 DangerType: None
-Palette: 36
+Palette: 34
 EffectColorA: 5
 EffectColorB: 7
 Effects: DayNight-0.9021739-20-20, 
 PlacedObjects: DayNightSettings><98.1731><417.3154><5~8.660254~57~66, 
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><735.6484><488.634><0.4673913><1, OMNI><AM_WIN_Hilltop.ogg><728.1555><459.8742><0.4347826><1, SPOT><AM_WIN-HowlingWnd.ogg><721.4461><550.7106><0.5><1><243.4461><227.7106><-351.3553><-76.35535><0><0.1, 
-FadePalette: 34, 1
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><735.6484><488.634><0.2065217><1, OMNI><AM_WIN_Hilltop.ogg><728.1555><459.8742><0.4347826><1, SPOT><AM_WIN-HowlingWnd.ogg><721.4461><550.7106><0.5><1><243.4461><227.7106><-351.3553><-76.35535><0><0.1, 
+FadePalette: 30, 0.6739131

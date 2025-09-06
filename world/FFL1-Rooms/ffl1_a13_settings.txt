@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+Palette: 98
+EffectColorA: 5
+EffectColorB: 5
+Effects: Fog-0-20-20, SkyBloom-1-30-30, Bloom-0.3152174-40-40, 
+PlacedObjects: SeedCob><205.3776><379.4082><0~0~7~10, SeedCob><346.0769><242.8154><0~0~7~10, DeadSeedCob><195.1134><281.6461><, Corruption><982.0098><508.8002><-20~52, Corruption><-83.8056><615.7969><-26~21, Corruption><120.2324><452.3008><-3~109, Corruption><820.519><308.6991><7~61, CorruptionTube><119.6156><444.8519><4~-112, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><722.5798><494.6051><0.7608696><1, OMNI><AM_WIN_Hilltop.ogg><741.6823><460.6676><0.4021739><1, OMNI><AM_WIN-NiceWnd.ogg><722.7084><520.1956><0.3369565><1, 
+FadePalette: 9, 0.2282609
+MorePalette0: 2, 0.06521739
+MorePalette1: 9, 0.5326087
+MorePalette2: 5, 0.25

@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: None
+Clouds: 0.2391304
+Palette: 36
+EffectColorB: 13
+TerrainStainAmount: 0.5543478
+TerrainWaves: 1
+TerrainGrain: 0.5456516
+TerrainDepth: -10
+TerrainSkyFade: 1
+TerrainPalette: badlands
+Effects: DayNight-0.8804348-20-20, LightBurn-0.2173913-30-30, 
+PlacedObjects: TerrainHandle><2164.16><76.12009><-40~0~69~16~92, TerrainHandle><2985.075><152.1862><-69~-40~40~0~81, TerrainHandle><94.67093><141.1837><-63~22~74~-22~74, TerrainHandle><-177.8085><240.4424><-46~18~41~-7~20, TerrainHandle><1532.428><192.4367><-187~-20~40~0~55, CustomDecal><412.9592><530.5541><76~163~236~112~187~-55~-360~140~0~1~0~smile face~0.423913~0.4565217~0.423913~0.4565217~0.423913~0.4565217~0.423913~0.4565217, SandGrubHole><1183.413><191.6343><, SandGrubNetwork><1534.588><426.9297><0~0~2~3~0.5~0.7608696~0.5, DangleFruit><2028.415><273.638><0~0~2~3, DangleFruit><2147.81><425.1848><0~0~2~3, DangleFruit><2088.432><236.0824><0~0~2~3, DayNightSettings><2287.439><259.8149><-124~-118.3398~57~66, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><724.0688><488.5848><0.3804348><1, OMNI><AM_WIN_Hilltop.ogg><739.8347><461.3875><0.423913><1, OMNI><AM_WIN-WndTone.ogg><708.66><472.12><0.3586957><1, 
+FadePalette: 98, 1, 0.7717391, 0.4782609
+MorePalette0: 30, 0, 0.2391304, 0.4456522

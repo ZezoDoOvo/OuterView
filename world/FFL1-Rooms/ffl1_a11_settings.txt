@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Clouds: 0.4021739
+Palette: 98
+Effects: HeatWave-0.2065217-20-20, DenseFog-0.7608696-30-30, LightBurn-1-40-40, 
+PlacedObjects: ClimbableArc><645.1998><2276.009><0;0^-373;216^-413;137^-143;-289, ClimbableArc><696.8375><2239.57><0;0^0;40^463;428^339;-200, ClimbableArc><695.5774><2309.851><0;0^375;160^349;356^606;-292, ClimbableArc><696.602><2336.615><0;0^35;-13^160;86^160;46, ClimbableArc><695.9301><2162.665><0;0^0;40^72;257^213;-111, ClimbableArc><651.9279><2324.684><0;0^0;40^-347;102^-347;62, ClimbableArc><644.9995><2226.805><0;0^-505;298^-556;280^-344;-206, ClimbableWire><973.6768><2526.02><345~110~17.32051~-10~Black~31, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><741.6047><490.1704><0.3804348><1, OMNI><AM_WIN_Hilltop.ogg><743.0914><459.0721><0.423913><1, OMNI><AM_WIN-WndTone.ogg><734.9221><477.898><0.3586957><1, OMNI><AM_WIN-HowlingWnd.ogg><738.6998><547.7408><0.3478261><1, 
+FadePalette: 2, 0, 0.01086957, 0.0326087, 0.09782609
+BackgroundOffset: -434.7825,869.565
