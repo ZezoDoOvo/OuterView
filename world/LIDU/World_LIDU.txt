@@ -10,7 +10,7 @@ END ROOMS
 
 CREATURES
 LIDU_TRS : 3-BigSpider, 2-SmallCentipede
-LIDU_A02 : 6-Blue-{RotType:1}
+LIDU_A02 : 6-Blue-{RotType:3}, 5-BigSpider-2, 4-Spider-5, 3-Terror
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

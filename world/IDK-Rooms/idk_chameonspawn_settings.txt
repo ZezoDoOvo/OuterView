@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.0499652
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 208
+EffectColorA: 5
+EffectColorB: 10
+TerrainSkyFade: 0.9456522
+Effects: SkyBloom-1-20-20, Bloom-0.3804348-30-30, 
+PlacedObjects: BlackSpot><1814.307><289.3015><-35~134~69~228~55~-17, BlackSpot><1770.278><119.4481><-5~128~74~201~131~-4, BlackSpot><1917.111><557.6059><-22~157~157~252~191~78, BlackSpot><1779.175><514.1537><19~129~210~146~112~-74, BlackSpot><2080.852><623.422><-1~96~106~152~172~89, BlackSpot><2769.202><320.194><0~40~40~40~41~-37, BlackSpot><2574.552><616.5255><0~40~40~40~40~0, BlackSpot><2528.096><637.9252><-1~64~95~57~86~-22, RotPlateTree><235.8553><260.8881><-4~64, RotPlateTree><286.6127><242.4152><27~111, ClimbablePoleH><489.6581><478.8776><11^2, ClimbablePoleV><483.3225><196.1578><0^14, ClimbableArc><496.4121><192.6796><0;0^129;71^267;237^399;60, ClimbableArc><501.3979><185.1154><0;0^291;223^328;271^537;145, 
+AmbientSounds: SPOT><Deep Weird Wind.wav><737.155><417.8736><1><1.567391><2374.155><385.8736><-514.3553><-329.3553><0><0.03478274, SPOT><AM_WIN-NiceWnd.ogg><762.4871><517.1996><1><1><2399.487><485.1996><-527.3553><-434.3553><0><0.1, OMNI><AM_WIN-HowlingWnd.ogg><733.3698><553.5898><0.5><1, 
+FadePalette: 3, 0.2391304, 0
+MorePalette0: 5, 0.1521739, 0
+MorePalette1: 9, 0, 0.1304348

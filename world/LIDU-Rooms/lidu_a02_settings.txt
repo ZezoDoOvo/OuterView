@@ -2,9 +2,10 @@ Template: NONE
 DangerType: None
 Clouds: 0.7826087
 Palette: 5
+EffectColorA: 19
 EffectColorB: 21
-Effects: Darkness-0-20-20, Sentient Rot Infection-0.6956522-6-62, Sentient Rot Spores-0.3956804-0-0, Flies-0.1215564-0-0, 
-PlacedObjects: GooDrips><1473.3><547.4958><-29~334~0~0~1, GooDrips><986.0823><513.3563><-9~148~0~0~1, GooDrips><620.2734><319.4486><0~100~0~0~0.5, GooDrips><785.3961><317.1133><11~108~0~0~0.5, GooDrips><516.634><324.3522><0~100~0~0~0.5, LobeTree><1366.697><398.7148><83~75~320~137, Corruption><1037.15><133.1729><0~100, Corruption><1389.688><518.931><0~100, Corruption><1857.686><128.6757><0~100, Corruption><897.9613><552.5538><0~100, Corruption><508.4396><583.6863><0~100, 
-AmbientSounds: OMNI><RWTW_AmbLot.ogg><720.6052><310.9201><0.3043478><1, OMNI><RWTW_RotAmb_Deep.ogg><0><0><0.2><1, OMNI><Mech Multiactive Highpass.wav><732.3015><334.7747><0.2391304><1, OMNI><MSC-MetalVariety.ogg><726.5961><261.4254><0.1630435><1, 
+Effects: Sentient Rot Infection-0.6956522-6-62, Sentient Rot Spores-0.3956804-0-0, Flies-0.608194-0-0, Darkness-0.4021739-20-20, 
+PlacedObjects: GooDrips><1473.3><547.4958><-29~334~0~0~1, GooDrips><986.0823><513.3563><-9~148~0~0~1, GooDrips><620.2734><319.4486><0~100~0~0~0.5, GooDrips><785.3961><317.1133><11~108~0~0~0.5, GooDrips><516.634><324.3522><0~100~0~0~0.5, Corruption><1037.15><133.1729><0~100, Corruption><1389.688><518.931><0~100, Corruption><1857.686><128.6757><0~100, Corruption><897.9613><552.5538><0~100, Corruption><508.4396><583.6863><0~100, Corruption><662.1666><123.6818><0~100, Corruption><519.398><358.8655><0~100, CorruptionTube><537.4147><407.1366><116~-267, Corruption><110.8129><535.3207><-10~110, Corruption><291.2135><535.8033><0~100, Corruption><1609.6><506.8277><-11~125, Corruption><1194.696><423.0574><0~100, CorruptionTube><1603.54><545.196><-420~-415, CorruptionTube><1657.624><563.4222><30~-404, Corruption><1675.837><159.6342><0~100, Corruption><1115.57><136.0872><0~100, Rattler><872.5363><158.8033><, PassiveCorruption><1306.66><125.3198><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><1780.415><532.8342><40~131~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, 
+AmbientSounds: OMNI><RWTW_RotAmb_Deep.ogg><0><0><0.2><1, OMNI><RWTW_RotAmb_Deep.ogg><0><0><0.2><1, OMNI><RWTW_RotAmb_Deep.ogg><0><0><0.2><1, OMNI><MSC-MetalVariety.ogg><726.5961><261.4254><0.1630435><1, 
 FadePalette: 42, 0.4891304, 0.4891304
 MorePalette0: 12, 0, 0
