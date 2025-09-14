@@ -1,6 +1,7 @@
-corruptionEffectColor: 0.3, 0.0, 0.9
-corruptionEyeColor: 0.3, 0.0, 0.9
+corruptionEffectColor: 0.9, 0.9, 0.1
+corruptionEyeColor: 0.9, 0.9, 0.1
 overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
+Room Setting Templates: Outside, Inside

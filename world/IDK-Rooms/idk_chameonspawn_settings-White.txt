@@ -1,4 +1,4 @@
-Template: ocean
+Template: NONE
 DangerType: Flood
 WaveSpeed: 0.5
 WaveLength: 0.75

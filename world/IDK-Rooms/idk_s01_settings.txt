@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.03430947
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 208
+EffectColorA: 3
+EffectColorB: 5
+Effects: Bloom-0.2934783-20-20, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><775.1556><487.9263><0.9891304><1, 
+FadePalette: 11, 0.7391304
+MorePalette0: 9, 0.326087
+MorePalette1: 9, 0.1847826

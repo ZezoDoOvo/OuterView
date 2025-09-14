@@ -1,0 +1,22 @@
+DangerType: Flood
+CeilingDrips: 0.5
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.4347826
+WaveLength: 1
+WaveAmplitude: 0.6877149
+SecondWaveLength: 0.6775364
+SecondWaveAmplitude: 0
+Clouds: 0.6847826
+Grime: 0.4347826
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 208
+EffectColorA: 5
+EffectColorB: 15
+Effects: Bloom-0.4456522-115-130, Fog-0.7173913-20-20, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><546.3698><566.5898><0.7065217><1, 
+FadePalette: 11, 0.2608696

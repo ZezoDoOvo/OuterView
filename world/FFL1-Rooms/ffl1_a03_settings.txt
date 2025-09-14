@@ -8,20 +8,19 @@ SecondWaveAmplitude: 0
 Clouds: 0.75
 Palette: 36
 EffectColorB: 5
-TerrainLight: 0
-TerrainStainAmount: 0.8369565
-TerrainStainBrightness: 1
+TerrainLight: 0.3093302
+TerrainStainAmount: 0.5567932
+TerrainStainBrightness: 0.8119905
 TerrainStainHeight: 1
-TerrainWaves: 1
-TerrainEdgeRadius: 164.3478
-TerrainGooHeight: 0.9565217
-TerrainGrain: 0.4891304
+TerrainWaves: 0.6109261
+TerrainEdgeRadius: 0
+TerrainGooHeight: 1
+TerrainGrain: 1
 TerrainDepth: -10
 TerrainSkyFade: 1
 TerrainPalette: badlands
-Effects: Bloom-1-20-20, HeatWave-0.25-30-30, SandPuffs-0.7608696-40-40, DayNight-1-50-50, 
-PlacedObjects: TerrainHandle><63.54256><120.627><-32~1~9~-35~115, TerrainHandle><840.7161><88.94711><-40~0~42~3~86, TerrainSunOffset><4210.305><58.54612><32~316, TerrainRubble><571.2674><43.79626><-9~35, TerrainRubble><746.0573><49.44636><-14~86, ClimbableArc><5134.45><299.7474><0;0^-5;42^156;24^78;7, ClimbableArc><5103.587><258.8845><0;0^0;40^-77;52^-33;36, ClimbableArc><5041.948><234.1931><0;0^22;44^-20;52^-57;10, LocustCloud><1744.942><521.4447><141~-12, MudPit><57.37567><180.8433><166~29~15, SandGrubHole><2932.55><62.23539><, SandGrubHole><4643.325><51.06442><, SandGrubNetwork><-17.05438><458.9583><0~0~2~3~0.5~0.5~0.5, SandGrubNetwork><78.34359><352.5732><0~0~2~3~0.5~0.5~0.5, SandGrubNetwork><-112.5964><309.5748><0~0~2~3~0.5~0.5~1, DayNightSettings><263.3554><255.1118><5~8.660254~57~66, TerrainHandle><4858.191><101.2274><-45~-35~40~0~111, 
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><770.7095><486.8042><0.4673913><1, OMNI><AM_WIN_Hilltop.ogg><765.6486><455.6339><0.4347826><1, OMNI><Deep Weird Wind.wav><731.564><414.9265><0.326087><1, 
+Effects: Bloom-1-20-20, HeatWave-0.25-10-105, DayNight-1-8-130, SandPuffs-1-30-30, 
+PlacedObjects: TerrainHandle><119.5425><137.627><-32~1~9~-35~115, TerrainHandle><840.7161><88.94711><-40~0~42~3~86, TerrainSunOffset><4210.305><58.54612><32~316, TerrainRubble><571.2674><43.79626><-9~35, TerrainRubble><746.0573><49.44636><-14~86, ClimbableArc><5134.45><299.7474><0;0^-5;42^156;24^78;7, ClimbableArc><5103.587><258.8845><0;0^0;40^-77;52^-33;36, ClimbableArc><5041.948><234.1931><0;0^22;44^-20;52^-57;10, MudPit><57.37567><180.8433><166~29~15, SandGrubHole><2932.55><62.23539><, SandGrubHole><4643.325><51.06442><, SandGrubNetwork><-17.05438><458.9583><0~0~2~3~0.5~0.5~0.5, SandGrubNetwork><78.34359><352.5732><0~0~2~3~0.5~0.5~0.5, SandGrubNetwork><-115.5964><318.5748><0~0~2~3~0.5~0.5~1, DayNightSettings><263.3554><255.1118><5~8.660254~57~67, TerrainHandle><4858.191><101.2274><-45~-35~40~0~111, CustomDecal><444.2125><222.5535><-66~77~409~111~407~67~-394~-35~0~1~0~rust1~0.9456522~0~0.9456522~0~0.9456522~0~0.9456522~0, CustomDecal><1116.609><244.1083><2~81~450~92~446~5~-235~8~0~1~0~rustb3~0.3369565~0~0.3369565~0~0.3369565~0~0.3369565~0, TerrainSunOffset><176.6541><354.3738><0~100, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><770.7095><486.8042><0.6086956><1, OMNI><AM_WIN_Hilltop.ogg><765.6486><455.6339><0.4347826><1, OMNI><Deep Weird Wind.wav><731.564><414.9265><0.326087><1, 
 FadePalette: 30, 0.6739131, 0.6847826, 0.6847826, 0.6847826, 0.6847826
-TerrainFadePalette: badlands, 1, 1, 1, 1, 1
 WetTerrain: OFF
