@@ -3,15 +3,18 @@ END CONDITIONAL LINKS
 
 ROOMS
 IDK_ChameonSpawn : IDK_S01, DISCONNECTED, IDK_A01
-IDK_A01 : DISCONNECTED, IDK_ChameonSpawn, DISCONNECTED
+IDK_A01 : DISCONNECTED, IDK_ChameonSpawn, IDK_A02
 IDK_S01 : IDK_ChameonSpawn : SHELTER
+IDK_A02 : IDK_A01, IDK_A03, DISCONNECTED
+IDK_A03 : IDK_A02, DISCONNECTED
 END ROOMS
 
 CREATURES
 IDK_A01 : 3-Eel-{RotType:1}, 4-Jet Fish-4, 5-Aquapede
 OFFSCREEN : 0-Leviathan-2, 0-Leviathan-{AlternateForm}, 0-Vulture-4, 0-Vulture-{AlternateForm}
-LINEAGE : SL_B04 : 3 : White-0.5, Cyan-0
 LINEAGE : IDK_A01 : 3 : Salamander-5, Eel-0
+IDK_A02 : 3-SmallCentipede
+LINEAGE : IDK_A02 : 4 : Centipede-8, Salamander
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

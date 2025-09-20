@@ -1,0 +1,22 @@
+DangerType: Flood
+CeilingDrips: 0.5
+RainIntensity: 0
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04933487
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 208
+EffectColorA: 0
+EffectColorB: 5
+Effects: Flies-0.2826087-20-20, 
+AmbientSounds: OMNI><AM_WAT-Sea02.ogg><757.1465><172.5788><0.6195652><1, OMNI><AM_SUB-MysticCave1.ogg><707.7205><230.3022><0.5><1, 
+FadePalette: 11, 0.5108696

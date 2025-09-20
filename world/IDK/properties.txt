@@ -4,4 +4,6 @@ overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
-Room Setting Templates: Outside, Inside
+Room Setting Templates: Outside, Cave
+Subregion: Dead Ocean
+Subregion: Rot
