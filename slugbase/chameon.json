@@ -15,13 +15,13 @@
 "climb_speed": [0.9, 0.7],
 "walk_speed": [0.9, 0.7],
 "crouch_stealth": [0.9, 0.7],
-"throw_skill": [2, 1.5],
+"throw_skill": [5, 1.5],
 "lung_capacity": [0.9, 0.7],
 "loudness": [0.9, 0.7],
 "diet":
 {
 "corpses": 3.0,
-  "plants": 0.5,
+  "plants": 1.0,
 "meat": 0.5,
 "overrides":
 {
@@ -31,7 +31,7 @@
 },
 "back_spear": false,
 "can_maul": true,
-"maul_damage": 0.5,
+"maul_damage": 1.0,
 "karma": 4,
 "karma_cap": 4,
 "the_mark": true,

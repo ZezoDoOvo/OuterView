@@ -2,9 +2,9 @@ DangerType: None
 CeilingDrips: 0.5
 RainIntensity: 1
 RumbleIntensity: 1
-WaveSpeed: 0.75
-WaveLength: 0.5
-WaveAmplitude: 0
+WaveSpeed: 0.4592409
+WaveLength: 0.9796205
+WaveAmplitude: 7.031981E-09
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0
@@ -14,9 +14,9 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 34
+Palette: 30
 EffectColorA: 0
 EffectColorB: 21
-Effects: DayNight-0.8913044-20-20, Fog-0.7065217-11-80, Sentient Rot Infection-0.2717391-38-132, Sentient Rot Spores-0.3369565-139-70, Darkness-0.4347826-30-30, 
-AmbientSounds: OMNI><AM_SUB-MysticCave1.ogg><609.4498><237.9914><0.3804348><1, OMNI><AM_WIN-HowlingWnd.ogg><727.8279><551.3981><0.1630435><1, 
+Effects: BrokenZeroG-0.3804348-32-96, Moth-0.2608696-755.0156-463.8222, RockFlea-0.1304348-446.9938-317.3778, LightRain-0.5760869-294-129, DayNight-0.7826087-20-20, Flies-0.2826087-40-40, Beetle-0.07608695-50-50, Bloom-0.2826087-172-439, SkyBloom-0.7282609-84-203, Fog-0.7065217--13-167, Sentient Rot Infection-0.2717391-41-219, Sentient Rot Spores-0.3369565-230-195, Darkness-0.4347826-509-575, 
+AmbientSounds: OMNI><AM_ENV-LushNight.ogg><689.7401><503.3002><0.4021739><1, OMNI><AM_IND-SuperStructure.ogg><783.66><489.13><0.4021739><1, OMNI><AM_SUB-MysticCave1.ogg><609.4498><237.9914><0.3804348><1, OMNI><AM_WIN-HowlingWnd.ogg><727.8279><551.3981><0.1630435><1, 
 FadePalette: 34, 0
