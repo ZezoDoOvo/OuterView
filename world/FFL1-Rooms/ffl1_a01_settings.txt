@@ -1,15 +1,23 @@
 Template: NONE
-DangerType: Blizzard
-WaveSpeed: 0.3913634
-WaveLength: 0.9456817
-WaveAmplitude: 3.212792E-12
+DangerType: None
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04999723
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0.2717391
-Grime: 0.4456522
-Palette: 12
-EffectColorB: 9
-Effects: Desaturation-0.3695652-20-20, Darkness-0.7282609-30-30, Bloom-0.4673913-40-40, Contrast-0.07608695-50-50, 
-PlacedObjects: Corruption><363.0583><358.8069><-36~-14, LanternOnStick><547.5737><264.4359><9~-147, SnowSource><555.6809><244.9377><Radial~0~100~50~86.60254~0.1086956~0.6086956, FloatingDebris><202.758><64.5502><-458.9999~-354~235369831~30~30~0.6847826~3~100~37|79|204|260|-161|417|467|517|567|639~44|86|84|80|199|119|119|119|119|15~1.1|0.94|0.3|1.86|0.25|0.25|0.25|0.25|0.25|0.25~0.67|0.12|0.62|0|0.42|-0.74|-0.31|-0.71|0.17|0.54~0.76|0.63|0|0|0|0|0|0|0|0~Aurora~0~0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0|0v0v0v0~0, SnowSource><526.0486><458.806><Radial~45~122~50~86.60254~1~0.3804348, SnowSource><332.905><478.8736><Radial~-3~135~50~86.60254~0.5652174~0.09782609, SnowSource><46.62909><627.8472><Radial~309~13~50~86.60254~1~0, BrokenShelterWaterLevel><-339.3814><351.8492><, SnowSource><657.142><192.8317><Radial~92~130~50~86.60254~0.7717391~0.8804348, SnowSource><559.08><182.8553><Radial~0~100~50~86.60254~1~0, PlacedRats><364.8525><178.3282><, 
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><750.6517><487.8803><0.2717391><1, OMNI><AM_IND-Midsex01.ogg><745.0969><163.1286><0.04347826><1, OMNI><AM_ENV-WinterTrees.ogg><731.925><387.3469><0.5434783><1, OMNI><AM_ENV-WindGrass.ogg><748.9759><414.0515><0.5><1.48913, OMNI><AM_WIN_Hilltop.ogg><742.121><462.4028><0.7608696><1, 
-FadePalette: 3, 0.2391304
+Palette: 28
+EffectColorA: 9
+EffectColorB: 8
+TerrainLight: 0.4891304
+TerrainStainAmount: 0
+TerrainWaves: 0.4130435
+TerrainEdgeRadius: 116.5217
+TerrainGooHeight: 0.2391304
+TerrainGrain: 0.1434777
+TerrainDepth: 1.902174
+TerrainSkyFade: 1
+TerrainPalette: test_ash_2
+Effects: Bloom-1-20-20, SkyBloom-0.6630435-44-130, 
+PlacedObjects: TerrainGrassPatch><582.1952><188.7064><582.1952~188.7064~120~0.1810001~0.18~127~0~0~285~0.2, PomegranateVine><183.95><392><-115~62, CurvedSlope><999.9329><469.3311><42~74^42~23^20~2^17~, TerrainHandle><192.0847><102.9312><-59~6~40~0~20, TerrainHandle><841.6331><162.4125><-81~-4~0~-18~20, TerrainHandle><741.4271><164.9362><-40~0~40~0~20, TerrainRubble><449.857><120.6398><0~100, TerrainGrassPatch><113.1179><211.4001><113.1179~211.4001~100~1.117587E-08~1~51~5~0.67~134~0.2, TowerCrabSpawner><61.85947><227.8923><0~0~0.2065217~N~0.8260869~0.9456522~Right, 
+AmbientSounds: OMNI><AM_ENV-WinterHum.ogg><749.2><394.7555><0.6847826><1, 
+FadePalette: 208, 0.3369565

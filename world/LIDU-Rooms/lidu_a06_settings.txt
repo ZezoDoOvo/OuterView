@@ -1,4 +1,4 @@
 Template: lidu_settingstemplate_normal
 EffectColorA: 9
 PlacedObjects: ZapCoil><1566.189><1032.186><97~11, ZapCoil><1572.698><947.5569><104~18, Corruption><810.4249><945.9354><0~100, DangleFruit><1793.185><199.5769><0~0~2~3, DangleFruit><1993.199><299.9815><0~0~2~3, DangleFruit><2118.2><267.0037><0~0~2~3, 
-FadePalette: 30, -1, -1, -1
+FadePalette: 30, 0, 0, 0

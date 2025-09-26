@@ -1,7 +1,0 @@
-Template: NONE
-DangerType: None
-Palette: 98
-EffectColorB: 15
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><712.8185><486.3341><0.3695652><1, OMNI><AM_ENV-SubTerr.ogg><755.5811><442.8571><0.2826087><1, OMNI><AM_ENV-WinterTrees.ogg><709.8158><379.6721><0.2065217><1, OMNI><AM_WIN_Hilltop.ogg><756.5278><457.5519><0.3913043><1, 
-FadePalette: 9, 0.2282609
-MorePalette0: 2, 0.1630435

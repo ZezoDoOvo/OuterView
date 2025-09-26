@@ -5,8 +5,8 @@
     "hide_version": false,
     "authors": "Invisin",
     "description": "manoel gomes com abacaxi",
-    "requirements": ["regionkit", "slime-cubed.slugbase", "moreslugcats", "lb-fgf-m4r-ik.modpack", "entomatadas.candylizards", "Croken.Mimic-Long-Legs", "watcher", "crs", "nonescreatures"],
-    "requirements_names": ["RegionKit", "SlugBase", "More Slugcats Expansion", "The M4rblelous Entity Pack", "Candy Lizards", "Mimic Long Legs", "The Watcher", "Custom Regions Support", "None's Creature Pack"],
+    "requirements": ["slime-cubed.slugbase", "moreslugcats", "watcher", "crs", "nonescreatures"],
+    "requirements_names": ["SlugBase", "More Slugcats Expansion", "The Watcher", "Custom Regions Support", "None's Creature Pack"],
     "checksum_override_version": false,
     "tags": ["Regions"]
 }
