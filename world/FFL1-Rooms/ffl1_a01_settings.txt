@@ -1,23 +1,20 @@
-Template: NONE
-DangerType: None
+Template: ffl1_settingstemplate_outside
 WaveSpeed: 0.5
 WaveLength: 0.75
 WaveAmplitude: 0.04999723
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Palette: 28
-EffectColorA: 9
-EffectColorB: 8
-TerrainLight: 0.4891304
-TerrainStainAmount: 0
-TerrainWaves: 0.4130435
-TerrainEdgeRadius: 116.5217
+TerrainLight: 0.6739131
+TerrainStainAmount: 1
+TerrainStainBrightness: 1
+TerrainStainHeight: 0.2282609
+TerrainWaves: 1
+TerrainEdgeRadius: 131.7391
 TerrainGooHeight: 0.2391304
-TerrainGrain: 0.1434777
+TerrainGrain: 0.3065212
 TerrainDepth: 1.902174
 TerrainSkyFade: 1
-TerrainPalette: test_ash_2
-Effects: Bloom-1-20-20, SkyBloom-0.6630435-44-130, 
-PlacedObjects: TerrainGrassPatch><582.1952><188.7064><582.1952~188.7064~120~0.1810001~0.18~127~0~0~285~0.2, PomegranateVine><183.95><392><-115~62, CurvedSlope><999.9329><469.3311><42~74^42~23^20~2^17~, TerrainHandle><192.0847><102.9312><-59~6~40~0~20, TerrainHandle><841.6331><162.4125><-81~-4~0~-18~20, TerrainHandle><741.4271><164.9362><-40~0~40~0~20, TerrainRubble><449.857><120.6398><0~100, TerrainGrassPatch><113.1179><211.4001><113.1179~211.4001~100~1.117587E-08~1~51~5~0.67~134~0.2, TowerCrabSpawner><61.85947><227.8923><0~0~0.2065217~N~0.8260869~0.9456522~Right, 
-AmbientSounds: OMNI><AM_ENV-WinterHum.ogg><749.2><394.7555><0.6847826><1, 
-FadePalette: 208, 0.3369565
+TerrainPalette: mpath
+Effects: Darkness-0.4565217-70-70, 
+PlacedObjects: TerrainHandle><196.4366><121.4279><-50~0~40~0~27, TerrainHandle><827.3519><96.82792><-40~0~17~-33~20, TerrainHandle><500.748><115.3><-40~0~40~-1~29, 
+FadePalette: 211, 0.4130435

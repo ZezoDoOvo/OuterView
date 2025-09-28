@@ -1,0 +1,4 @@
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+Effects: Darkness-0.5217391-205-149, 
+FadePalette: 27, 0.3913043
