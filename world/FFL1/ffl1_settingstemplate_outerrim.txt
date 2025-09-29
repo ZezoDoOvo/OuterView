@@ -1,0 +1,21 @@
+DangerType: Sandstorm
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04828316
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 69
+EffectColorA: 0
+EffectColorB: 0
+Effects: Outer Rim View-1-40-40, Flies-0.1847826-228-187, Moth-0.3804348-70-100, 
+AmbientSounds: OMNI><RWTW_DustStorm_Gusting.ogg><763.8679><522.0999><0.4347826><1, OMNI><RWTW_DustStorm_High.ogg><774.4566><501.8048><0.1521739><1, OMNI><RWTW_DeepRumble_02.ogg><745.1752><566.6855><0.173913><1, OMNI><RWTW_ElderRippleAmbiance.ogg><730.3405><494.3216><0.2934783><1, 

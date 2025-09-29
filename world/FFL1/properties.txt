@@ -1,7 +1,9 @@
-corruptionEffectColor: 0.8, 0.5, 0.4
-corruptionEyeColor: 0.4, 0.2, 0.2
+corruptionEffectColor: 0.4, 0.2, 0.8
+corruptionEyeColor: 0.4, 0.1, 0.8
 overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
-Room Setting Templates: Inside, Outside
+Room Setting Templates: Inside, Outside, Outerrim
+Subregion: Unseen Lands
+Room_Attr: FFL1_A03: PeachLizard-Stay,

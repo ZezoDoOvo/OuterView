@@ -1,10 +1,13 @@
 Template: ffl1_settingstemplate_outside
+DangerType: Sandstorm
 WaveSpeed: 0.5
 WaveLength: 0.75
-WaveAmplitude: 0.04999723
+WaveAmplitude: 0.04999999
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-TerrainLight: 0.6739131
+EffectColorA: 4
+EffectColorB: 8
+TerrainLight: 0.1304348
 TerrainStainAmount: 1
 TerrainStainBrightness: 1
 TerrainStainHeight: 0.2282609
@@ -14,7 +17,8 @@ TerrainGooHeight: 0.2391304
 TerrainGrain: 0.3065212
 TerrainDepth: 1.902174
 TerrainSkyFade: 1
-TerrainPalette: mpath
-Effects: Darkness-0.4565217-70-70, 
-PlacedObjects: TerrainHandle><196.4366><121.4279><-50~0~40~0~27, TerrainHandle><827.3519><96.82792><-40~0~17~-33~20, TerrainHandle><500.748><115.3><-40~0~40~-1~29, 
-FadePalette: 211, 0.4130435
+TerrainPalette: outerrim
+Effects: Darkness-0.3695652-464-489, BorderPushBack-0-356-309, SurfaceSandstorm-0.2282609-149-196, Outer Rim View-0.4673913-179-134, 
+PlacedObjects: TerrainHandle><196.4366><121.4279><-50~0~40~0~27, TerrainHandle><827.3519><96.82792><-40~0~17~-33~20, TerrainHandle><500.748><115.3><-40~0~40~-1~29, FloatingDebris><421.1267><451.0925><50~50~1699351324~0~30~0.96739~2.456521~6~-118|-40|61|188|333|499|841~132|77|25|18|41|94|212~0.9899999|0.25|0.25|0.25|0.25|0.25|0.25~0.4599999|0.6699999|0.53|0.33|0.35|0.62|0.36~0|0|0|0|0|0|0~Stardust~0.5~0v0.49v0v0|0v0.76v0v0|0v0.88v0v0|0v0.69v0v0|0v0.56v0v0|0v0.74v0v0|0v0.83v0v0~0, FloatingDebris><308.1646><281.3192><50~50~1553745772~0~30~0.4782615~1.608695~6~-233|100|965~56|-77|44~0.5|0.25|0.25~1.93|0.52|0.58~0|0|0~Stardust~0.5~0v1.23v0v0|0v0.69v0v0|0v1.02v0v0~0, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>135_ v4<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>531.5675<tB>436.1883<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 69, 0.6956522

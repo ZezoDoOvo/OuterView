@@ -5,7 +5,7 @@
 "features":
 {
 "color": "3d52d1",
-"start_room": "FFL1_GEOMETRY-TEST",
+"start_room": "FFL1_A02",
 
 "select_menu_scene": "menu_chameon",
 
@@ -20,7 +20,7 @@
 "loudness": [0.9, 0.7],
 "diet":
 {
-"corpses": 3.0,
+"corpses": 1.0,
   "plants": 1.0,
 "meat": 0.5,
 "overrides":

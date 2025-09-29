@@ -1,6 +1,7 @@
 Template: NONE
 DangerType: None
-Palette: 208
+Palette: 69
 PlacedObjects: Lantern><70.84913><284.6313><0~0~3~8, 
 AmbientSounds: OMNI><AM_ENV-NatWind.ogg><764.8043><490.9425><0.5><1, 
-FadePalette: 5, 0.6086956
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>Música pro Invisin<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>245.6393<tB>379.3334<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 5, 0
