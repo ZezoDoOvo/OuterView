@@ -1,0 +1,5 @@
+Template: ffl1_settingstemplate_outerrim
+Palette: 69
+EffectColorB: 3
+Effects: Desaturation-0.3043478-40-40, 
+FadePalette: 35, 0.4021739
