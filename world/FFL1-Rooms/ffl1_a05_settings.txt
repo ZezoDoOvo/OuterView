@@ -1,0 +1,10 @@
+Template: ffl1_settingstemplate_outside
+DangerType: Sandstorm
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04999954
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: Darkness-0.5326087-115-124, Outer Rim View-0.423913-279-261, SurfaceSandstorm-0.2282609-60-60, FlowerWind-0.1847826,0.5,0.5217391-70-70, 
+PlacedObjects: FloatingDebris><221.1523><452.8254><-57~26~1493789413~0~30~3~3~6~-323|152|359|782|1696~118|58|88|69|110~0.5|0.25|0.25|-0.36|0.25~0|0|0|0.53|0.62~0|0|0|0|0~Stardust~0.5~0v0.5v0v0|0v0.24v0v0|0v0.7v0v0|0v0.55v0v0|0v0.74v0v0~0, 
+FadePalette: 69, 0.2391304, 0
