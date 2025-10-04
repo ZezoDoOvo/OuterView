@@ -1,14 +1,14 @@
 DangerType: Sandstorm
-CeilingDrips: 0.5
+CeilingDrips: 0
 RainIntensity: 1
-RumbleIntensity: 1
+RumbleIntensity: 0.1086956
 WaveSpeed: 0.5
 WaveLength: 0.75
-WaveAmplitude: 0.04828316
+WaveAmplitude: 0.04507615
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0
-Grime: 0.5
+Clouds: 0.1521739
+Grime: 0
 BkgDroneVolume: 0.3
 BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
@@ -16,6 +16,8 @@ RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
 Palette: 69
 EffectColorA: 0
-EffectColorB: 0
-Effects: Outer Rim View-1-40-40, Flies-0.1847826-228-187, Moth-0.3804348-70-100, 
-AmbientSounds: OMNI><RWTW_DustStorm_Gusting.ogg><763.8679><522.0999><0.4347826><1, OMNI><RWTW_DustStorm_High.ogg><774.4566><501.8048><0.1521739><1, OMNI><RWTW_DeepRumble_02.ogg><745.1752><566.6855><0.173913><1, OMNI><RWTW_ElderRippleAmbiance.ogg><730.3405><494.3216><0.2934783><1, 
+EffectColorB: 16
+Effects: SurfaceSandstorm-0.2391304-20-20, Outer Rim View-1-32-80, 
+AmbientSounds: OMNI><RWTW_DustStorm_Deep.ogg><750.4411><476.3161><0.1521739><1, OMNI><RWTW_DustStorm_Gusting.ogg><753.9527><388.1807><0.423913><1, OMNI><RWTW_RotAmb_VanillaRot.ogg><760.9398><545.3157><0.1383096><0.7746394, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_114 - Machine Riser<eA>vol<eB>0.4956522<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>283.1211<tB>271.55<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>767.1211<tB>361.55<tA>handlePos<tB>-367.3553<tB>-99.35535, RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_RWTW_TAG_09<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>726.5151<tB>315.6072<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 35, 0.3804348

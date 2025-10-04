@@ -1,5 +1,9 @@
-Template: ffl1_settingstemplate_outerrim
-Palette: 69
-EffectColorB: 3
-Effects: Desaturation-0.3043478-40-40, 
-FadePalette: 35, 0.4021739
+Template: NONE
+DangerType: Sandstorm
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04898623
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><763.6871><432.3849><0.3994678><1, OMNI><AM_ENV-CityTone.ogg><777.3022><565.1767><0.159737><1, OMNI><AM_RAIN-Rumbles.ogg><755.5035><295.272><0.1597376><1, 
+FadePalette: 800, 0.1237771
