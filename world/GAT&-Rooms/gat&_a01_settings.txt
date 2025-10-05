@@ -16,13 +16,13 @@ TerrainStainAmount: 1
 TerrainStainBrightness: 1
 TerrainStainHeight: 1
 TerrainWaves: 1
-TerrainEdgeRadius: 66.52168
-TerrainGooHeight: 0.3695652
-TerrainGrain: 0.8282604
+TerrainEdgeRadius: 82.6087
+TerrainGooHeight: 0.6086956
+TerrainGrain: 1
 TerrainDepth: -10
 TerrainSkyFade: 1
 TerrainPalette: tomb
-PlacedObjects: TerrainHandle><2368.584><330.6388><-67~-4~124~-32~115, TerrainHandle><3067.55><250.743><-37~-25~68~20~122, TerrainHandle><276.102><138.1721><-40~0~40~0~94, TerrainHandle><506><60><-40~0~69~-21~94, TerrainHandle><960><149><-48~-15~61~7~94, TerrainHandle><1832.464><110.6967><-40~0~115~-23~20, TerrainHandle><1348.555><158.9423><-40~0~103~24~20, TerrainHandle><1577.396><180.1361><-40~0~55~-7~20, TerrainHandle><2604.046><244.8055><-40~0~40~0~20, TerrainHandle><2178.2><282.9973><-65~-52~56~32~20, 
+PlacedObjects: TerrainHandle><2368.584><330.6388><-67~-4~124~-32~38, TerrainHandle><2872.55><236.743><-81~-9~175~34~122, TerrainHandle><257.102><233.1954><-48~-11~40~0~94, TerrainHandle><526><254.7182><-40~0~69~-21~94, TerrainHandle><960><149><-48~-15~61~7~94, TerrainHandle><1894.464><148.6967><-40~0~115~-23~20, TerrainHandle><1348.555><158.9423><-40~0~103~24~20, TerrainHandle><1577.396><180.1361><-40~0~55~-7~20, TerrainHandle><2583.046><272.8055><-28~44~138~-77~20, TerrainHandle><2159.2><257.9973><-65~-52~56~32~20, SuperSlope><831.6118><141.8946><131~-82~73, TerrainHandle><3419.327><275.4346><-40~0~40~0~20, TowerCrabSpawner><131.1923><592.5206><0~0~0.5~N~0~0.04347827~Border, 
 FadePalette: 98, 0.423913, 0.4021739, 0.423913
 TerrainFadePalette: rustedwrecks, 1, 1, 1
 MorePalette0: 81, 0.2717391, 0.2826087, 0.2826087
