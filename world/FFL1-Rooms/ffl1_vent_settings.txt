@@ -5,5 +5,8 @@ WaveLength: 0.75
 WaveAmplitude: 0.04898623
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
+Palette: 800
+EffectColorA: 6
+EffectColorB: 6
 AmbientSounds: OMNI><AM_ENV-WallHum.ogg><763.6871><432.3849><0.3994678><1, OMNI><AM_ENV-CityTone.ogg><777.3022><565.1767><0.159737><1, OMNI><AM_RAIN-Rumbles.ogg><755.5035><295.272><0.1597376><1, 
-FadePalette: 800, 0.1237771
+FadePalette: 69, 0.6956522

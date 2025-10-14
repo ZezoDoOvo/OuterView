@@ -4,26 +4,27 @@ WaveSpeed: 0.5
 WaveLength: 0.75
 WaveAmplitude: 0.04898623
 SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
+SecondWaveAmplitude: 0.5869565
 Clouds: 0.2934783
 RandomItemDensity: 0.4130435
 RandomItemSpearChance: 0.3630434
 WaterReflectionAlpha: 1
 Palette: 464
+EffectColorA: 4
 EffectColorB: 5
 TerrainLight: 0
 TerrainStainAmount: 1
 TerrainStainBrightness: 1
 TerrainStainHeight: 1
 TerrainWaves: 1
-TerrainEdgeRadius: 82.6087
+TerrainEdgeRadius: 56.31555
 TerrainGooHeight: 0.6086956
 TerrainGrain: 1
 TerrainDepth: -10
 TerrainSkyFade: 1
-TerrainPalette: tomb
-PlacedObjects: TerrainHandle><2368.584><330.6388><-67~-4~124~-32~38, TerrainHandle><2872.55><236.743><-81~-9~175~34~122, TerrainHandle><257.102><233.1954><-48~-11~40~0~94, TerrainHandle><526><254.7182><-40~0~69~-21~94, TerrainHandle><960><149><-48~-15~61~7~94, TerrainHandle><1894.464><148.6967><-40~0~115~-23~20, TerrainHandle><1348.555><158.9423><-40~0~103~24~20, TerrainHandle><1577.396><180.1361><-40~0~55~-7~20, TerrainHandle><2583.046><272.8055><-28~44~138~-77~20, TerrainHandle><2159.2><257.9973><-65~-52~56~32~20, SuperSlope><831.6118><141.8946><131~-82~73, TerrainHandle><3419.327><275.4346><-40~0~40~0~20, TowerCrabSpawner><131.1923><592.5206><0~0~0.5~N~0~0.04347827~Border, 
-FadePalette: 98, 0.423913, 0.4021739, 0.423913
-TerrainFadePalette: rustedwrecks, 1, 1, 1
-MorePalette0: 81, 0.2717391, 0.2826087, 0.2826087
-MorePalette1: 9, 0.4021739, 0.423913, 0.4130435
+TerrainPalette: rustedwrecks
+Effects: Fog-0.3478261-20-20, 
+PlacedObjects: TerrainHandle><158.1864><252.5488><-79~17~40~0~85, TerrainHandle><507.6144><303.5107><-50~8~301~-77~71, TerrainHandle><888.5635><187.7333><-283~61~152~-24~20, TerrainHandle><987.1962><170.5699><-62~5~59~-9~20, TerrainHandle><1204.136><183.8603><-40~0~51~-1~20, TerrainHandle><1369.542><196.2095><-40~0~40~0~26, TerrainHandle><1496.917><160.8357><-40~0~48~-3~86, TerrainHandle><2036.673><146.1785><-40~0~60~-10~73, TerrainHandle><2373.22><188.9031><-51~-21~82.70728~17.60001~35, TerrainHandle><2597.391><270.8271><-125~-26~50~6~32, TerrainHandle><3147.843><277.8344><-161~-10~137~-1~70, TerrainHandle><2774.924><226.9556><-98.2688~32.02222~130.676~-24.04445~27, LightSource><1052.813><415.2708><1~EffectColor1~-10.67188~135.5556~50~86.60254~0~0~None~0~0, LightSource><1393.271><392.8717><1~EffectColor1~-4.268799~128.4445~50~86.60254~0~0~None~0~0, TowerCrabSpawner><4134.51><518.1489><0~0~0.03262727~Y~0.07608695~0.173913~Right, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><774.6872><568.0704><0.3478261><1, OMNI><AM_WIN-SubWnd.ogg><740.5968><487.1286><0.5434783><1, OMNI><MSC-ShadowGully.ogg><717.3268><215.6><0.3804348><1, OMNI><AM_WIN-StrongWnd2.ogg><716.1902><505.8117><0.7717391><1, 
+FadePalette: 37, 0.4130435, 0.4021739, 0.4130435, 0.4347826
+MorePalette0: 98, 0.3789295, 0.3789295, 0.3711953, 0.3711959

@@ -4,3 +4,5 @@ overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
+Room Setting Templates: Lab, Deer, Beach
+Room_Attr: GAT&_MO1: Deer-Stay,DrillCrab-Forbidden,TowerCrab-Forbidden,

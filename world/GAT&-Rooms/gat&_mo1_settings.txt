@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: None
+Palette: 11
+EffectColorB: 4
+TerrainLight: 0
+TerrainStainAmount: 0.9891304
+TerrainStainBrightness: 0.5760869
+TerrainStainHeight: 0.6956522
+TerrainWaves: 1
+TerrainEdgeRadius: 33.91299
+TerrainGrain: 1
+TerrainSkyFade: 1
+TerrainPalette: torrid_desert
+Effects: WaterDepth-0-20-20, SilenceWater-0.3804348-30-30, 
+PlacedObjects: TerrainHandle><-64.41248><114.1593><-40~0~40~0~42, TerrainHandle><276.6995><121.4928><-40~0~40~0~46, TerrainHandle><1654.181><143.322><-40~0~68~4~102, TerrainHandle><2170.593><143.6773><-40~0~40~0~49, TerrainHandle><1385.459><58.8043><-39~-6~40~0~67, TerrainHandle><1157.985><7.300579><-40~0~40~0~86, TerrainHandle><616.2215><92.44797><-40~0~61~-1~59, TerrainHandle><944.7607><0.199707><-156~5~40~0~51, DangleFruit><1519.477><381.3014><0~0~2~3, DangleFruit><1195.082><417.1418><0~0~2~3, DangleFruit><1681.052><342.2799><0~0~2~3, DangleFruit><1798.358><397.4183><0~0~2~3, DangleFruit><1137.668><360.4636><0~0~2~3, DangleFruit><926.6315><423.6611><0~0~2~3, DangleFruit><-95.65015><256.0763><0~0~2~3, DangleFruit><319.339><400.8209><0~0~2~3, SeedCob><1507.045><246.5552><0~0~7~10, SeedCob><1308.7><170.7608><0~0~7~10, 
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><749.7569><413.6999><0.2282609><1, OMNI><RWTW_AR_RearDen.ogg><781.3552><322.9201><0.06521739><1, OMNI><SO_SFX-ColdNight.ogg><745.8026><517.782><0.04347826><1, 
+FadePalette: 37, 0.6413044, 0.6413044
