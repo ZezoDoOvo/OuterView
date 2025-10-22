@@ -1,0 +1,31 @@
+{
+  "id": "harbinger_Intro",
+  "slideshow_folder": "slugbase/slideshows/harbinger_intro",
+  "next_process": "Game",
+  "music": {
+    "name": "RW_Intro_Theme",
+    "fade_in": 40
+  },
+  "scenes": [
+    {
+      "name": "scene1",
+      "fade_in_start": 0,
+      "fade_out_start": 7.1,
+      "images": [
+        {"name": "background1", "pos": [0,0], "depth": -1, "shader": "Basic"},
+        {"name": "scholar1",    "pos": [0,0], "depth": 1.5}
+      ],
+      "camera_path": [ [10, 15, 0], [8.7, 5, 0.5] ]
+    },
+    {
+      "name": "scene2",
+      "fade_in_start": 8.1,
+      "fade_in_end": 11.25,
+      "fade_out_start": 17,
+      "images": [
+        {"name": "9 Sem Título_20251016121150", "pos": [0,   0], "depth": -1,    "shader": "Basic"},
+      ],
+      "movements": [ [-10,-25], [-2.5,4], [-3,7] ]
+    }
+  ]
+}

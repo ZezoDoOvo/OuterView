@@ -1,6 +1,0 @@
-RainIntensity: 1
-RumbleIntensity: 0.1802763
-EffectColorB: 19
-Effects: ModifyEffectColorB-1,0.407201,0.4613339-218.6948-124.7556, 
-PlacedObjects: LightSource><329.6574><495.063><0.2112088~Environment~921~497~50~86.60254~0~0~None~0~0, LightSource><1143.042><346.4742><0.3194749~EffectColor2~101.0271~110.6666~50~86.60254~1~1~Fade~0~0, DangleFruit><278.3386><436.2121><0~0~2~3, DangleFruit><438.7723><394.1061><0~0~2~3, DangleFruit><808.0076><444.1944><0~0~2~3, LightSource><1701.275><392.5113><0.4277403~Environment~-340.7885~6.13327~50~86.60254~1~0~None~0~0, LightSource><1141.964><347.9111><0.1957431~EffectColor2~101.0271~110.6666~50~86.60254~1~0~Fade~0~0, 
-FadePalette: 51, 0, 0

@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04676946
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 28
+Effects: Desaturation-0-68-133, Darkness-0.75-652-377, DarkenLights-0.9456522-20-20, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><747.48><433.199><0.5><1, OMNI><AM_WAT-Sea01.ogg><718.9847><189.8006><0.423913><1, 
+FadePalette: 51, 0

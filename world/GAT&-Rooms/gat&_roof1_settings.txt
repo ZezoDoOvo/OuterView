@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 80
+EffectColorA: 0
+EffectColorB: 3
+Effects: Flies-0.1701314-20-20, Moth-0.3015966-30-30, SkyBloom-0.5746717-40-40, Bloom-0.5799932-50-50, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><777.9024><560.8752><0.6855973><1, OMNI><AM_ENV-LightWind.ogg><780.0056><521.4209><0.1210705><1, OMNI><AM_ENV-WinterTrees.ogg><754.2825><385.0812><0.3917342><1, 
+FadePalette: 5, 0.2397307

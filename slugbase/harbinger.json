@@ -1,13 +1,13 @@
 {
-"id": "chameon",
-"name": "Chameon",
+"id": "harbinger",
+"name": "Harbinger",
 "description": "caneta azul",
 "features":
 {
-"color": "3d52d1",
+"color": "ffc9f6",
 "start_room": "FFL1_A02",
 
-"select_menu_scene": "menu_chameon",
+"select_menu_scene": "menu_harbinger",
 
 "auto_grab_batflies": false,
 "weight": [0.9, 0.7],
