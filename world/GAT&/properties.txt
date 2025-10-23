@@ -5,6 +5,9 @@ overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
 Room Setting Templates: Lab, Deer, Beach
+Subregion: Metal Beach
+Subregion: Metal Beach (Roof)
+Subregion: Metal Beach (Lower Flooding)
 Room_Attr: GAT&_MO1: Deer-Stay,DrillCrab-Forbidden,TowerCrab-Forbidden,
 Room_Attr: GAT&_LAB1: Scavenger-Forbidden,
 Room_Attr: GAT&_LAB2: Scavenger-Forbidden,
