@@ -1,0 +1,2 @@
+Template: gat&_settingstemplate_roof
+Effects: Desaturation-0-104.8219-135.3778, 

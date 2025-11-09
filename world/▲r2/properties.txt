@@ -1,0 +1,6 @@
+corruptionEffectColor: 0.4, 0.2, 0.8
+corruptionEyeColor: 0.4, 0.1, 0.8
+overseersSpawnChance: 0
+overseersMin: 0
+overseersMax: 0
+playerGuideOverseerSpawnChance: 0
