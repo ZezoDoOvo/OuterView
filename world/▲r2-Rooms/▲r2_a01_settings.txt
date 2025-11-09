@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.03970544
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3043478
+Palette: 28
+Effects: Fog-0.6304348-20-20, Darkness-0.6086956-30-30, 
+PlacedObjects: LightSource><412.3008><262.7674><0.3043478~White~-9~211~50~86.60254~1~0~None~0~0, 
+FadePalette: 42, 0.1630435, 0.1630435
+BackgroundOffset: 652.1738,-3913.043
