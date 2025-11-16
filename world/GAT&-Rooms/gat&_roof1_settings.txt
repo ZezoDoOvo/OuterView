@@ -1,3 +1,15 @@
-Template: gat&_settingstemplate_roof
-Triggers: PreRegionBump<tA>event<tB>MusicEvent<eA>songName<eB>rot alleys.90_ v6<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>751.978<tB>315.8541<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
-FadePalette: 5, 0.2397307
+Template: NONE
+DangerType: None
+WaveSpeed: 0.4653884
+WaveLength: 0.9826942
+WaveAmplitude: 0.003138542
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 5
+EffectColorB: 8
+Effects: Bloom-0.5869565-20-20, 
+PlacedObjects: LightBeam><2136.95><138.2473><252~596~939~594~279~-174~-146~253~0.1608694~0.4347826~0~1~None~0~0, LightBeam><1712><285><252~596~939~594~279~-174~-79~144~0.1608694~0.4347826~0~1~None~0~0, LightSource><391.6898><267.6872><0.1630435~White~1780~464~50~86.60254~1~1~None~0~0, LightSource><1601.55><426.0086><0.6086956~White~233~238~50~86.60254~1~0~None~0~0, ClimbableArc><2445.197><305.193><0;0^7;22^-18;96^48;53, ClimbableArc><2428.139><399.6436><0;0^-52;7^-79;60^-37;36, ClimbableArc><2352.461><457.5539><0;0^-21;14^-72;-30^-56;-15, ClimbableArc><2282.629><429.4024><0;0^-56;-2^-53;48^-44;10, 
+AmbientSounds: OMNI><AM_ENV-WinterHum.ogg><757.3333><403.9319><0.173913><1.117391, OMNI><RWTW_AR_Flag.ogg><687.4653><396.053><0.5><1, OMNI><RWTW_AR_WindyCliff.ogg><802.4116><219.3679><0.5><1, OMNI><RWTW_DaemonSpace_01.ogg><514.5502><247.241><0.1521739><1, 
+FadePalette: 40, 0.4782609, 0.4673913, 0.4673913
+MorePalette0: 2, 0.2717391, 0.2717391, 0.2717391
+MorePalette1: 36, 0.1086956, 0.1086956, 0.1086956

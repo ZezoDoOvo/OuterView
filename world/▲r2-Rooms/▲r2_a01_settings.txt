@@ -5,5 +5,5 @@ SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.3043478
 Effects: Flies-0.1630435-40-40, HeavyRain-0.02173913-50-50, 
-PlacedObjects: AirPocket><259.6618><113.1176><439~207~30~30~Y~143, 
+PlacedObjects: LightSource><422.6967><260.0362><0.7608696~Environment~-17~177~50~86.60254~1~0~None~0~0, 
 FadePalette: 42, 0.1630435, 0.1630435
