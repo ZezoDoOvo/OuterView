@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Palette: 5
+EffectColorB: 3
+Effects: Darkness-0.2934783-20-20, 
+FadePalette: 2, 0.5
+MorePalette0: 30, 0.3478261
