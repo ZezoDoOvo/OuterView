@@ -1,8 +1,0 @@
-RumbleIntensity: 0.1802763
-WaveSpeed: 0.423913
-WaveLength: 0.3913043
-WaveAmplitude: 0.1847826
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
-PlacedObjects: LightSource><448.017><569.53><1~Environment~-34.15002~184.6223~50~86.60254~1~0~None~0~0, 
-FadePalette: 51, 0.6956522, 0.6956522
