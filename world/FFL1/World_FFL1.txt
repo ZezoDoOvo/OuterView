@@ -19,7 +19,6 @@ FFL1_A01 : 3-Peach-2
 FFL1_A02 : 3-SmallCentipede
 FFL1_A03 : 3-Yellow
 FFL1_A05 : 5-Red-{RotType:3}
-FFL1_A04 : 
 END CREATURES
 
 BAT MIGRATION BLOCKAGES
