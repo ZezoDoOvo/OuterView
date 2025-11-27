@@ -1,0 +1,9 @@
+Clouds: 0.3043478
+Effects: Darkness-0.1630435-75-83, 
+PlacedObjects: LanternOnStick><770.8502><284.3826><27~-124, LanternOnStick><657.0804><264.6439><-10~-127, LanternOnStick><973.8649><317.8525><13~-141, LanternOnStick><590.3608><161.8936><96~-5, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.3586957><1, OMNI><AM_ENV-WallHum.ogg><737.6048><434.3625><0.1195652><1, OMNI><Mech Multiactive Highpass.wav><724.8356><340.8639><0.1521739><0.7847826, 
+FadePalette: 29, 0.5869565
+MorePalette0: 99, 0.5543478
+MorePalette1: 5, 0.25
+MorePalette2: 2, 0.08695652
+MorePalette3: 500, 0.25

@@ -4,3 +4,5 @@ overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
+Room Setting Templates: Region
+Room_Attr: GATE_MASSACRE1.scav: RedLizard-Like,SpitLizard-Forbidden,

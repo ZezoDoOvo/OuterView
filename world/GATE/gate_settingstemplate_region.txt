@@ -1,0 +1,32 @@
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.4709259
+WaveLength: 0.985463
+WaveAmplitude: 1.679359E-09
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.4891304
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 9
+EffectColorA: 0
+EffectColorB: 7
+TerrainLight: 0.4673913
+TerrainStainAmount: 1
+TerrainStainBrightness: 1
+TerrainStainHeight: 1
+TerrainWaves: 0.6304348
+TerrainGrain: 1
+TerrainDepth: 2.82608
+TerrainSkyFade: 0
+TerrainPalette: tomb
+Effects: Hue-0.1521739-20-20, Beetle-0.09782609-30-30, Flies-0.09782609-40-40, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.8369565><1.156522, 
+FadePalette: 29, 0.5869565
+BackgroundOffset: 3260.869,1195.652
