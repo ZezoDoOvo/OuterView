@@ -1,9 +1,12 @@
+Template: NONE
+DangerType: None
 WaveSpeed: 0.4709259
 WaveLength: 0.985463
 WaveAmplitude: 1.679359E-09
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.4891304
+EffectColorB: 7
 TerrainLight: 0.4673913
 TerrainStainAmount: 1
 TerrainStainBrightness: 1
@@ -14,7 +17,7 @@ TerrainDepth: 2.82608
 TerrainSkyFade: 0
 TerrainPalette: tomb
 Effects: DenseFog-0.07608695-213-94, DenseFogSoundVolume-0.1630435-715-544, ModifyEffectColorA-0.3695652,0.4782609,0.5217391-48-62, 
-PlacedObjects: GraffitiBomb><839.4474><484.6929><0~0~2~3, DangleFruit><216.8091><316.1904><-96~121~2~3, DangleFruit><436.8078><355.1948><-128~158~2~3, CustomDecal><157.2868><456.9466><-8~218~942~239~958~-11~-109~-306~0~1~0~lc_toll1f~0.6956522~0.3695652~0.6956522~0.3695652~0.6956522~0.3695652~0.6956522~0.3695652, SnowSource><750.3881><470.6658><Radial~0~100~50~86.60254~0.6413044~1, SnowSource><593><502><Radial~0~100~50~86.60254~0.6413044~1, SnowSource><264><640><Radial~100~76~50~86.60254~0.8478261~1, SnowSource><293><438><Radial~73~73~50~86.60254~0.5652174~1, ExitSymbolHidden><960.6113><567.0965><, LightSource><638.1348><95.3522><0.5434783~Environment~-248~232~50~86.60254~1~0~None~0~0, 
+PlacedObjects: GraffitiBomb><839.4474><484.6929><0~0~2~3, DangleFruit><216.8091><316.1904><-96~121~2~3, DangleFruit><436.8078><355.1948><-128~158~2~3, CustomDecal><157.2868><456.9466><-8~218~942~239~958~-11~-109~-306~0~1~0~lc_toll1f~0.6956522~0.3695652~0.6956522~0.3695652~0.6956522~0.3695652~0.6956522~0.3695652, SnowSource><750.3881><470.6658><Radial~0~100~50~86.60254~0.6413044~1, SnowSource><593><502><Radial~0~100~50~86.60254~0.6413044~1, SnowSource><264><640><Radial~100~76~50~86.60254~0.8478261~1, SnowSource><293><438><Radial~73~73~50~86.60254~0.5652174~1, ExitSymbolHidden><960.6113><567.0965><, LightSource><638.1348><95.3522><0.5434783~Environment~-248~232~50~86.60254~1~0~None~0~0, ColouredLightSource><940.8105><569.9358><100~50~FF8200~103^-94~1~False~0.4456522~0~0.5~Always~0~100, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.6847826><1, 
 FadePalette: 29, 0.5869565
 TerrainFadePalette: outerrim, 0.8478261

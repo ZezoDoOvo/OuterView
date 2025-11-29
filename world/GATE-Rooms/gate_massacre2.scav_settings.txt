@@ -1,7 +1,10 @@
+Template: NONE
 BkgDroneVolume: 0.376087
-PlacedObjects: BrainMold><531.7046><636.0552><0~100, FloatingDebris><276.4346><350.689><447~-17~1470400215~0~0~0.0108689~0.532608~3~-38~11~1.07~-1.1~0~Rock~0~0v0v0v0~0, DangleFruit><188.2448><512.3><0~0~2~3, DangleFruit><268.1407><527.9175><0~0~2~3, RottenDangleFruit><553.8627><542.8955><0~0~2~3, LanternOnStick><374.0914><557.6218><29~-102, LanternOnStick><199.1402><526.3328><-8~-77, LanternOnStick><472.9484><482.7755><-132~-24, LanternOnStick><798.8008><376.4828><-4~-149, RippleLevelFilter><379.7893><536.9461><0~100~0~0~5~5, CosmeticRipple><199.8923><313.8905><0~0~-135~-37~199.8923~313.8905~139.9786~0.5~1~False~0.5~False~0~False~-1~0~False, GooDrips><528.3231><593.8432><-8~74~0~0~0.1195652, 
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.3586957><1, OMNI><AM_ENV-WallHum.ogg><748.8004><430.0131><0.1195652><1, 
-FadePalette: 29, 0
+EffectColorA: 2
+EffectColorB: 7
+PlacedObjects: BrainMold><531.7046><636.0552><0~100, DangleFruit><188.2448><512.3><0~0~2~3, DangleFruit><268.1407><527.9175><0~0~2~3, RottenDangleFruit><553.8627><542.8955><0~0~2~3, LanternOnStick><374.0914><557.6218><29~-102, LanternOnStick><199.1402><526.3328><-8~-77, LanternOnStick><472.9484><482.7755><-132~-24, LanternOnStick><798.8008><376.4828><-4~-149, RippleLevelFilter><379.7893><536.9461><0~100~0~0~5~5, GooDrips><528.3231><593.8432><-8~74~0~0~0.1195652, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.6847826><1, OMNI><AM_ENV-WallHum.ogg><748.8004><430.0131><0.1195652><1, 
+FadePalette: 29, 0.7934783
 MorePalette0: 97, 0.2717391
 MorePalette1: 5, 0.25
 MorePalette2: 2, 0.08695652
