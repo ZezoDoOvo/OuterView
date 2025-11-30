@@ -1,10 +1,22 @@
-Template: NONE
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
 WaveSpeed: 0.4709259
 WaveLength: 0.985463
 WaveAmplitude: 1.679359E-09
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.4891304
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 0
+EffectColorA: 0
+EffectColorB: 7
 TerrainLight: 0.4673913
 TerrainStainAmount: 1
 TerrainStainBrightness: 1
@@ -15,8 +27,5 @@ TerrainDepth: 2.82608
 TerrainSkyFade: 0
 TerrainPalette: tomb
 Effects: DenseFog-0.07608695-213-94, DenseFogSoundVolume-0.1630435-715-544, ModifyEffectColorA-0.3695652,0.4782609,0.5217391-48-62, 
-FadePalette: 29, 0.5869565
-TerrainFadePalette: outerrim, 0.8478261
-MorePalette0: 99, 0.5434783
-MorePalette1: 5, 0.1413043
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.6847826><1, 
 FadePalette: 29, 0.5869565
