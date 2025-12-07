@@ -1,0 +1,4 @@
+PlacedObjects: BigSkyWhaleTrigger><285.4254><455.3461><-6~102~0~0~-1~2, 
+FadePalette: 29, 0.5954598, 0.6031929
+MorePalette0: 99, 0.5335939, 0.5490603
+MorePalette1: 5, 0.1855973, 0.1778644

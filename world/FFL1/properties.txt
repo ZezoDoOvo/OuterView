@@ -6,4 +6,4 @@ overseersMax: 0
 playerGuideOverseerSpawnChance: 0
 Room Setting Templates: Inside, Outside, Outerrim
 Subregion: Unseen Lands
-Room_Attr: FFL1_A03: PeachLizard-Stay,
+Room_Attr: FFL1_A03: SkyWhale-Stay,PeachLizard-Stay,SisterLongLegs-Stay,RivuletLongLegs-Stay,
