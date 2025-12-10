@@ -1,0 +1,1 @@
+PlacedObjects: BigSkyWhaleSpawner><-102.5593><426.809><0~0~600~808~-1, BigSkyWhaleTrigger><462.45><489.7448><0~100~0~0~-1~3, BigSkyWhaleTrigger><856.9341><495.5773><0~100~0~0~0~3, 
