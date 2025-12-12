@@ -1,10 +1,17 @@
-GATE_A01: -82.5><-37.5><101.5><40.75><1><><54><39
-GATE_S01: 27.5><-37.5><12.5><-157.25><1><><48><35
-GATE_MASSACRE1.scav: 137.5><-37.5><-215.5><75.75><1><><68><35
-OffScreenDen_GATE: -82.5><112.5><101.5><40.75><1><><0><0
+GATE_A01: -416.5625><-354.6875><191.9375><134.5938><1><Abandoned Warehouse><54><39
+GATE_MASSACRE1.scav: -196.5625><-354.6875><-313.0625><51.59375><1><Abandoned Warehouse><68><35
+GATE_MASSACRE2.scav: -14.0625><182.8125><-143.5625><-35.15625><1><Abandoned Warehouse><48><35
+GATE_Broken1: 95.9375><182.8125><-47.5625><170.8438><1><Abandoned Warehouse><48><35
+GATE_A02: 205.9375><182.8125><108.4375><-156.1563><1><Abandoned Warehouse><108><35
+GATE_TEST: 315.9375><182.8125><407.4375><19.84375><1><><48><35
+GATE_A03: 425.9375><182.8125><-221.5625><-225.1563><1><Abandoned Warehouse (Rotten Pipes)><48><35
+OffScreenDen_GATE: -416.5625><-204.6875><17.9375><39.59375><1><><0><0
 Connection: GATE_A01,GATE_MASSACRE1.scav,48,28,16,18,0,2
-Connection: GATE_A01,GATE_S01,36,7,8,18,0,2
+Connection: GATE_A01,GATE_A02,10,28,96,20,1,0
+Connection: GATE_A01,GATE_Broken1,36,7,18,15,0,2
+Connection: GATE_MASSACRE1.scav,GATE_MASSACRE2.scav,56,11,4,26,0,2
+Connection: GATE_A02,GATE_A03,20,14,22,29,3,1
 
-SpawnMigrationStream: stream1,-610^-977,549^-259,-629^-893,357^-251,None,1,200,135,None
+SpawnMigrationStream: stream1,-945^-1295,214^-577,-964^-1211,22^-569,None,1,200,135,None
 
-SpawnMigrationStream: stream2,-229^-385,268^-351,-229^-285,268^-451,None,12,70,30,None
+SpawnMigrationStream: stream2,-564^-703,-67^-669,-564^-603,-67^-769,None,12,70,30,None

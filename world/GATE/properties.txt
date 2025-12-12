@@ -5,3 +5,12 @@ overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
 Room Setting Templates: Region
+Subregion: Abandoned Warehouse
+Subregion: Abandoned Warehouse (Rotten Pipes)
+Room_Attr: GATE_A01: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_MASSACRE1.scav: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_MASSACRE2.scav: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_Broken1: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_A02: Vulture-Forbidden,KingVulture-Like,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_TEST: Vulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_A03: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
