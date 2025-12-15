@@ -1,0 +1,11 @@
+WaveLength: 0
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2717391
+Effects: Darkness-0.6521739-20-20, DenseFog-0-30-30, DirtyWater-1-312-71, WaterViscosity-0.5543478-326-275, GeyserFrequency-0.0326087-40-40, 
+PlacedObjects: AirPocket><734.1403><884.8328><37~280~30~30~Y~197, AirPocket><801.5745><1060.154><27~200~30~30~Y~81, AirPocket><135.9401><206.8122><666~147~30~30~Y~106, Geyser><419.9016><310.6304><33~210~0.6086956, CustomDecal><1259.426><1043.405><-71~243~46~292~178~44~-308~-219~0~1~0~rustb1~0.5~0~0.5~0~0.5~0~0.5~0, LightSource><1271.877><1201.842><0.1847826~Environment~-7~190~50~86.60254~1~0~None~0~0, CustomDecal><556.1512><1080.119><78~210~303~217~330~76~-322~-270~0~1~0~blackrust1~0.9456522~1~0.9456522~1~0.9456522~1~0.9456522~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.3804348><1, OMNI><AM_ENV-WallHum.ogg><761.5859><431.3857><0.5><1, OMNI><AM_WAT-Sea01.ogg><719.1977><190.0301><0.1630435><1, 
+FadePalette: 1, 0.7717391, 0.4891304, 0.7934783
+MorePalette0: 99, 0.2717391, 0.2826087, 0.2717391
+MorePalette1: 9, 0.4021739, 0.4130435, 0.4130435

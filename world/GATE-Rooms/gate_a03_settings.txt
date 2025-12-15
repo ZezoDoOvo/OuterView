@@ -1,5 +1,7 @@
+Effects: DenseFog-0-20-20, 
 PlacedObjects: JellyFish><444.5316><271.6975><-136~176~2~3, Corruption><327.0459><283.4447><-4~83, CorruptionDarkness><328.5399><283.946><0~100, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.3804348><1, OMNI><AM_ENV-WallHum.ogg><769.3514><432.4224><0.5><1, 
 FadePalette: 29, 0
-MorePalette0: 99, 0.5869565
+MorePalette0: 99, 0.6304348
 MorePalette1: 5, 0.1086956
+MorePalette2: 1, 0.2282609

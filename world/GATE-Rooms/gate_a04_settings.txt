@@ -1,0 +1,6 @@
+Effects: DirtyWater-0.2717391-20-20, WaterDepth-0.0326087-30-30, Darkness-0.6195652-316-38, DenseFog-0-40-40, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.3804348><1, OMNI><AM_ENV-WallHum.ogg><745.3958><426.8631><0.5><1, 
+FadePalette: 29, 0
+MorePalette0: 1, 0.5108696
+MorePalette1: 5, 0.3695652
+MorePalette2: 99, 0.3586957
