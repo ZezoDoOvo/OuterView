@@ -3,7 +3,7 @@ DangerType: None
 Clouds: 0.6521739
 Palette: 14
 Effects: Fog-0.1630435-225-105, Ant-0.08695652-20-20, Flies-0.1195652-30-126, 
-PlacedObjects: Corruption><1161.182><216.0824><-6~176, CorruptionTube><1066.423><223.6492><-523~158, CorruptionTube><1071.057><275.1971><-184~236, CorruptionTube><1074.916><142.8187><-166~-78, CorruptionTube><1078.526><185.9484><-167~-10, CorruptionDarkness><1055.377><227.1548><-105~184, 
+PlacedObjects: Corruption><1093.182><220.0823><-11~154, CorruptionTube><1066.423><223.6492><-523~158, CorruptionTube><1071.057><275.1971><-184~236, CorruptionTube><1074.916><142.8187><-166~-78, CorruptionTube><1078.526><185.9484><-167~-10, CorruptionDarkness><1055.377><227.1548><-105~184, DangleFruit><677.4698><273.3023><0~0~2~3, DangleFruit><399.3098><601.6909><0~0~2~3, DangleFruit><801.9402><415.1909><0~0~2~3, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.3369565><1, 
 FadePalette: 11, 0.2717391, 0.2717391
 MorePalette0: 15, 0.1195652, 0.1195652

@@ -1,4 +1,5 @@
 Template: NONE
 Palette: 5
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><738.6069><521.6691><0.5652174><1, OMNI><AM_IND-SuperStructure.ogg><743.084><486.4315><0.1956522><1, 
 BackgroundOffset: 0,463.9965
 BackgroundType: atc_default_msc
