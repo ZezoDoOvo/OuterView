@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 14
+Effects: Fog-0.2173913-298-143, Flies-0.1195652-20-20, Ant-0.08695652-30-30, 
+FadePalette: 11, 0.2717391, 0.2717391
+MorePalette0: 15, 0.1195652, 0.1195652
