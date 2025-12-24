@@ -1,5 +1,5 @@
 Effects: Flies-0.1086956-20-20, Beetle-0.1304348-30-30, 
-PlacedObjects: BigSkyWhaleSpawner><126.8336><584.389><0~0~600~1200~-1, BigSkyWhaleTrigger><504.4224><515.3157><-12~146~0~0~1~0, BigSkyWhaleTrigger><825.7252><705.8015><6~112~0~0~0~0, BigSkyWhaleTrigger><1218.036><696.1968><0~100~0~0~0~0, BigSkyWhaleTrigger><1543.661><418.1316><2~134~0~0~0~0, 
+PlacedObjects: BigSkyWhaleSpawner><126.8336><584.389><0~0~600~1200~-1, SnowSource><1384.423><413.4288><Radial~-1016~-460~50~86.60254~0.2065217~0, SnowSource><1272.388><160.9157><None~0~100~50~86.60254~0.3369187~1, SnowSource><-192.3472><727.9144><Radial~1364~-526~50~86.60254~0.3804335~0, 
 AmbientSounds: OMNI><AM_ENV-LushNight.ogg><719.6768><504.0639><0.3478261><1, 
 FadePalette: 29, 0.5954598, 0.6031929
 MorePalette0: 99, 0.5335939, 0.5490603
