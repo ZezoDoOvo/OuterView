@@ -1,15 +1,14 @@
 Template: NONE
 DangerType: Blizzard
-WaveSpeed: 0.4993342
-WaveLength: 0.9996671
-WaveAmplitude: 0.005932725
+WaveSpeed: 0.348716
+WaveLength: 0.924358
+WaveAmplitude: 0.01611866
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Palette: 32
-EffectColorA: 13
+Palette: 40
+EffectColorA: 12
 EffectColorB: 11
-Effects: Coldness-1-20-20, Dustpuffs-1-30-30, ModifyEffectColorA-0.4021739,1,0.5434783-264-125, 
-PlacedObjects: SnowSource><1213.088><2939.618><Radial~-755~-448~-411~109.6025~0.4891304~0, SnowSource><2121.553><2889.718><Radial~383~-289~50~86.60254~0.4456522~0, SnowSource><2621.053><2975.693><Radial~-286~170~50~86.60254~0.2608696~0, SnowSource><2610.655><2905.376><Radial~-98~179~50~86.60254~0.4130435~0, SnowSource><4275.188><3039.44><Radial~-1300~-324~50~86.60254~1~0, SnowSource><3256.083><2865.14><Radial~639~-60~50~86.60254~0.173913~0, BlackSpot><-125.1862><2185.323><-41~132~53~67~275~-389, LightSource><3258.605><2751.362><0.6847826~EffectColor1~-37~129~50~86.60254~1~1~None~0~0, 
-AmbientSounds: OMNI><AM_ENV-WinterHum.ogg><745.0563><398.4502><0.2717391><1, OMNI><AM_ENV-WinterTrees.ogg><757.946><387.0574><0.3804348><1, 
-FadePalette: 40, 0.6630435, 0.6847826, 0.6956522, 0.6847826, 0.6847826, 0.6956522
-WetTerrain: OFF
+Effects: ModifyEffectColorA-0.8913044,1,0.6956522-68-44, 
+PlacedObjects: SnowSource><2809.427><2967.343><Radial~1220~-769~50~86.60254~1~0, SnowSource><1175.943><2859.947><Radial~933~-413~50~86.60254~0.8152174~0, SnowSource><2618.695><2576.954><UnSnow~-165~189~50~86.60254~1~0, SnowSource><2443.829><2323.934><UnSnow~-107~236~50~86.60254~1~0, SnowSource><2867.057><2421.947><UnSnow~0~100~115~-115.3975~1~0, SnowSource><2745.08><2590.067><UnSnow~19~174~50~86.60254~1~0, LanternOnStick><1237.801><2896.769><-46~-232, RotPlateTree><1269.075><2590.152><49~-190, 
+AmbientSounds: OMNI><AM_ENV-WinterHum.ogg><748.4493><400.0162><0.5><1, OMNI><AM_ENV-WinterTrees.ogg><741.5739><386.6859><0.2934783><1, OMNI><RWTW_Amb_DesertWind_01.ogg><774.318><172.8329><0.3913043><1.41087, 
+FadePalette: 32, 0.5326087, 0.5326087, 0.5326087, 0.5434783, 0.5434783, 0.5543478
