@@ -1,15 +1,19 @@
 Template: NONE
 DangerType: None
-WaveSpeed: 0.5039345
-WaveLength: 0.9980327
-WaveAmplitude: 0.04474344
+WaveSpeed: 0.4900509
+WaveLength: 0.9950254
+WaveAmplitude: 0.02349845
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Palette: 54
 EffectColorA: 12
 TerrainPalette: ridgesnow
-Effects: ModifyEffectColorA-0.4347826,1,0.7717391-68-44, ModifyEffectColorB-0.9130435,0.2608696,0.7282609-254-95, Fog-0.6195652-20-20, Desaturation-0.2391304-30-30, 
-PlacedObjects: LanternOnStick><1237.801><2896.769><-34~-207, 
-AmbientSounds: OMNI><RWTW_Amb_DesertWind_01.ogg><774.318><172.8329><0.5108696><0.2369565, OMNI><AM_WIN_Hilltop.ogg><724.1928><454.9417><0.5><1, 
-FadePalette: 32, 0.3586957, 0.3586957, 0.3369565, 0.3478261, 0.3586957, 0.3586957
-BackgroundOffset: 5000,-5000
+Effects: ModifyEffectColorA-0.4347826,1,0.7717391-68-44, ModifyEffectColorB-0.9130435,0.2608696,0.7282609-254-95, Fog-0.7608696-20-20, Desaturation-0.0326087-30-30, 
+PlacedObjects: DangleFruit><2212.807><2356.304><0~0~2~3, DangleFruit><2178.903><2396.075><0~0~2~3, LanternOnStick><1237.801><2896.769><-34~-207, LightSource><6314.773><2727.7><0.07608695~Environment~-716~-225~161~-224.3975~1~1~None~0~0, PassiveCorruption><2977.828><2890.103><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~3~0~1, LightSource><1180.946><2777.791><0.2282556~Environment~806~-194~50~-106.3975~1~0~Fade~0~0, LightSource><890.3198><2042.663><0.1413043~Environment~-211~-429~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_WIN_Hilltop.ogg><724.1928><454.9417><0.1086956><1, OMNI><AM_ENV-NatWind.ogg><737.8277><490.5657><0.6086956><1.528261, OMNI><SO_SFX-ColdNight.ogg><568.9034><334.1217><0.6521739><1.058696, 
+FadePalette: 32, 0.8152174, 0.8152174, 0.8152174, 0.8043478, 0.8152174, 0.8043478
+MorePalette0: 41, 0.2173913, 0.2282609, 0.2173913, 0.2173913, 0.2173913, 0.2173913
+MorePalette1: 300, 0.5760869, 0.5869565, 0.5652174, 0.5543478, 0.5760869, 0.5760869
+MorePalette2: 28, 0, 0, 0, 0, 0, 0
+BackgroundOffset: 5000,5000
+BackgroundType: atc_pinksky
