@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: None
+Clouds: 0.2391304
+Palette: 74
+TerrainLight: 0
+TerrainStainAmount: 1
+TerrainStainBrightness: 1
+TerrainStainHeight: 1
+TerrainWaves: 0.8478261
+TerrainEdgeRadius: 33.91299
+TerrainGooHeight: 0.4130435
+TerrainGrain: 0.436956
+TerrainDepth: -10
+TerrainPalette: tomb
+PlacedObjects: TerrainHandle><107.4776><214.8024><-40~0~51~-8~67, TerrainHandle><384.3553><267.6687><-98~4~109~-24~20, TerrainHandle><622.8423><187.623><-41~11~93~-3~42, TerrainHandle><802.5964><223.5746><-49~-19~40~0~20, TerrainHandle><927.6967><194.4636><-53~22~99~-56~7, TerrainHandle><1139.444><88.94324><-40~0~33~-3~43, TerrainHandle><1377.734><167.9479><-60~-14~40~0~41, Pomegranate><706.8297><608.9006><-293.6795~-160~7~10~227~58, DangleFruit><212.9422><482.5511><0~0~2~3, DangleFruit><35.32056><590.4382><0~0~2~3, DangleFruit><1116.909><351.9278><0~0~2~3, 
+FadePalette: 29, 0
