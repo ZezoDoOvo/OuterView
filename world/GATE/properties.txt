@@ -15,3 +15,4 @@ Room_Attr: GATE_A02: Vulture-Forbidden,KingVulture-Like,SkyWhale-Forbidden,Siste
 Room_Attr: GATE_TEST: Vulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_A03: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_A06: Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: GATE_D1: Vulture-Forbidden,KingVulture-Forbidden,

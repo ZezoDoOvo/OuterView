@@ -14,6 +14,6 @@ AmbientSounds: OMNI><AM_WIN_Hilltop.ogg><724.1928><454.9417><0.1086956><1, OMNI>
 FadePalette: 32, 0.8152174, 0.8152174, 0.8152174, 0.8043478, 0.8152174, 0.8043478
 MorePalette0: 41, 0.2173913, 0.2282609, 0.2173913, 0.2173913, 0.2173913, 0.2173913
 MorePalette1: 300, 0.5760869, 0.5869565, 0.5652174, 0.5543478, 0.5760869, 0.5760869
-MorePalette2: 28, 0, 0, 0, 0, 0, 0
+MorePalette2: 480, 0, 0, 0, 0, 0, 0
 BackgroundOffset: 5000,5000
 BackgroundType: atc_pinksky
