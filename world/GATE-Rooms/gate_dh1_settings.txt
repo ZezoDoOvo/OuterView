@@ -1,0 +1,7 @@
+TerrainLight: 0
+TerrainSkyFade: 1
+PlacedObjects: SuperSlope><1676.134><423.5388><79~-20~57, TerrainHandle><1354.793><-8.304771><-103~-5~40~0~30, TerrainHandle><2062.256><144.0501><-40~0~40~0~23, TerrainHandle><1050.551><54.01385><-40~0~94~7~13, TerrainHandle><820.6172><0.6622086><-53~-3~40~0~35, TerrainHandle><483.4464><-31.96191><-40~0~40~0~20, TerrainHandle><117.6686><7.932709><-40~0~40~0~40, TerrainHandle><-130.1668><-24.11041><-40~0~40~0~20, 
+FadePalette: 29, 0, 0
+MorePalette0: 462, 0.5652174, 0.5652174
+MorePalette1: 459, 0.5760869, 0.5760869
+MorePalette2: 452, 0.326087, 0.326087

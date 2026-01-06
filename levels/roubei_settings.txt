@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 300
+EffectColorB: 10
+Effects: ModifyEffectColorB-0.1847826,0.7391304,0.5760869-20-20, Ripple Settings-0-314-69-Watcher-WRRA-wrra_a23-1-1.0-2-0.4782609, 
+PlacedObjects: ClimbableArc><-233.8329><136.8899><0;0^-50;6^-194;7^-169;-9, ClimbableArc><21.33649><129.115><0;0^-127;154^23;411^-129;323, ClimbableArc><946.3202><375.6873><0;0^57;12^286;4^246;0, 
+BackgroundOffset: -108.6956,1086.956
+BackgroundType: atc_pinksky

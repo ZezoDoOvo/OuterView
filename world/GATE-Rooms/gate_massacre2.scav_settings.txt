@@ -8,7 +8,8 @@ SecondWaveAmplitude: 0
 BkgDroneVolume: 0.376087
 EffectColorA: 2
 EffectColorB: 7
-PlacedObjects: BrainMold><531.7046><636.0552><0~100, DangleFruit><188.2448><512.3><0~0~2~3, DangleFruit><268.1407><527.9175><0~0~2~3, LanternOnStick><374.0914><557.6218><29~-102, LanternOnStick><199.1402><526.3328><-8~-77, LanternOnStick><472.9484><482.7755><-132~-24, LanternOnStick><798.8008><376.4828><-4~-149, RippleLevelFilter><379.7893><536.9461><0~100~0~0~5~5, GooDrips><528.3231><593.8432><-8~74~0~0~0.1195652, 
+Effects: Ripple Settings-0-20-20-Rivulet-GW-gw_tower01-0.8586956-1-19-0.25, 
+PlacedObjects: BrainMold><531.7046><636.0552><0~100, DangleFruit><188.2448><512.3><0~0~2~3, DangleFruit><268.1407><527.9175><0~0~2~3, LanternOnStick><374.0914><557.6218><29~-102, LanternOnStick><199.1402><526.3328><-8~-77, LanternOnStick><472.9484><482.7755><-132~-24, LanternOnStick><798.8008><376.4828><-4~-149, RippleLevelFilter><379.7893><536.9461><0~100~0~0~5~5, GooDrips><528.3231><593.8432><-8~74~0~0~0.1195652, FloatingDebris><210.0434><271.3047><50~50~1499036408~0~30~0.25~1.054349~31~-163|197~-256|-99~0.59|0.8~0|0~0|0~Ripple~0.5~0v0v0v0|0v0v0v0~0, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.8423><522.3729><0.5543478><1, OMNI><AM_ENV-WallHum.ogg><748.8004><430.0131><0.1195652><1, OMNI><AM_ENV-WindGrass.ogg><547.8891><365.6664><0.5652174><1, 
 FadePalette: 29, 0.7934783
 MorePalette0: 5, 0.25

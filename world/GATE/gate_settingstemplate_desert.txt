@@ -1,0 +1,32 @@
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04984784
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1304348
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 74
+EffectColorA: 0
+EffectColorB: 7
+TerrainLight: 0
+TerrainStainAmount: 0.4891304
+TerrainStainBrightness: 1
+TerrainStainHeight: 0.4891304
+TerrainWaves: 0.8478261
+TerrainEdgeRadius: 33.91299
+TerrainGooHeight: 0.4130435
+TerrainGrain: 0.436956
+TerrainDepth: -10
+TerrainPalette: torrid_desert_rain
+Effects: ModifyEffectColorB-0.07608695,0.1521739,0.5543478-20-20, Fog-0.5978715-30-30, RedSwarmer-0.06521739-40-40, 
+AmbientSounds: OMNI><RWTW_Amb_DesertWind_01.ogg><796.3809><174.4012><0.04347826><0.9608696, OMNI><RWTW_DeepRumble_02.ogg><746.9412><566.4415><0.3586957><1, 
+FadePalette: 29, 0

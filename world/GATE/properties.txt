@@ -5,6 +5,7 @@ overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
 Room Setting Templates: Region
+Room Setting Templates: Desert
 Subregion: Abandoned Warehouse
 Subregion: Abandoned Warehouse (Rotten Pipes)
 Room_Attr: GATE_A01: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
@@ -12,7 +13,8 @@ Room_Attr: GATE_MASSACRE1.scav: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-
 Room_Attr: GATE_MASSACRE2.scav: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_Broken1: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_A02: Vulture-Forbidden,KingVulture-Like,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
-Room_Attr: GATE_TEST: Vulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_TEST: Vulture-Forbidden,KingVulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_A03: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_A06: Vulture-Forbidden,KingVulture-Forbidden,
 Room_Attr: GATE_D1: Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: GATE_DH1: Vulture-Avoid,KingVulture-Avoid,
