@@ -5,8 +5,8 @@
     "hide_version": false,
     "authors": "Invisin",
     "description": "manoel gomes com abacaxi",
-    "requirements": ["slime-cubed.slugbase", "moreslugcats", "watcher", "crs", "nonescreatures", "xuanzebufeng.randomcodestuff", "damoonlord.stuff"],
-    "requirements_names": ["SlugBase", "More Slugcats Expansion", "The Watcher", "Custom Regions Support", "None's Creature Pack", "XuanZeBuFeng's Random Code Stuff", "Moon's Stuff"],
+    "requirements": ["slime-cubed.slugbase", "moreslugcats", "watcher", "crs", "nonescreatures", "xuanzebufeng.randomcodestuff", "com.rainworldgame.shroudedassembly.plugin", "Croken.fanged-lizard"],
+    "requirements_names": ["SlugBase", "More Slugcats Expansion", "The Watcher", "Custom Regions Support", "None's Creature Pack", "XuanZeBuFeng's Random Code Stuff", "Shrouded Assembly Code", "Fanged Terrors"],
     "checksum_override_version": false,
     "tags": ["Regions"]
 }
