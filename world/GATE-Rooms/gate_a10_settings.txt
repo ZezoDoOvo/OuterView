@@ -1,0 +1,6 @@
+Palette: 443
+EffectColorA: 21
+EffectColorB: 2
+PlacedObjects: LightSource><215.45><384.0008><0.1630435~Environment~-624~185~50~86.60254~1~0~None~0~0, LightSource><645><397><0.1630435~Environment~-624~185~50~86.60254~1~0~None~0~0, LightFixture><228.3195><192.164><RedLight~17.32051~-10~27, LightFixture><124.0977><390.5755><RedLight~17.32051~-10~84, 
+AmbientSounds: OMNI><SO_SFX-Morse.ogg><499.9487><325.7728><0.1521739><1, OMNI><AM_IND-Welder.ogg><733.8051><368.5446><0.06521739><1, OMNI><AM_SUB-BlankState.ogg><731.6381><262.1658><0.5217391><1, 
+FadePalette: 29, 0
