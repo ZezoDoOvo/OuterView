@@ -1,0 +1,5 @@
+Palette: 443
+EffectColorA: 13
+EffectColorB: 2
+PlacedObjects: LightSource><370.9128><396.8838><0.1847826~Environment~-435~214~50~86.60254~1~0~None~0~0, LightFixture><256.4648><377.5531><RedLight~17.32051~-10~68, LightFixture><456.5638><354.0605><RedLight~17.32051~-10~12, 
+FadePalette: 440, 0
