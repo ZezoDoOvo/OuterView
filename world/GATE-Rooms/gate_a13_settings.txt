@@ -1,1 +1,5 @@
-FadePalette: 301, 0.8369565, 0.8369565
+Effects: Fog-0.6521739-40-40, 
+FadePalette: 300, 0.7173913, 0.7282609
+MorePalette0: 40, 0.08695652, 0.08695652
+BackgroundOffset: 0,-309.3287
+BackgroundType: atc_pinksky

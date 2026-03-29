@@ -1,2 +1,3 @@
 FadePalette: 300, 0.7282609, 0.7282609, 0.7282609, 0.7391304, 0.7282609, 0.7065217
 MorePalette0: 0, 0, 0, 0, 0, 0, 0
+BackgroundType: atc_pinksky

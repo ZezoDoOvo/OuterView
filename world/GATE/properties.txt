@@ -4,19 +4,20 @@ overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
-Room Setting Templates: Sky, Trash
+Room Setting Templates: Sky, Trash, Plant
 Subregion: Abandoned Warehouse
 Subregion: Abandoned Warehouse (Rotten Pipes)
 Subregion: Abandoned Warehouse (No Man's Land)
-Room_Attr: GATE_A01: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
-Room_Attr: GATE_MASSACRE1.scav: Vulture-Like,CicadaA-Like,CicadaB-Like,Centiwing-Like,KingVulture-Like,MirosVulture-Like,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_A01: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_MASSACRE1.scav: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_MASSACRE2.scav: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_Broken1: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
-Room_Attr: GATE_A02: Vulture-Forbidden,KingVulture-Like,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_A02: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
 Room_Attr: GATE_A03: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
-Room_Attr: GATE_A05: Vulture-Like,CicadaA-Like,CicadaB-Like,Centiwing-Like,KingVulture-Like,MirosVulture-Like,
-Room_Attr: GATE_A06: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: GATE_A05: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_A06: Vulture-Avoid,CicadaA-Avoid,CicadaB-Avoid,Centiwing-Avoid,KingVulture-Avoid,MirosVulture-Avoid,RivuletLongLegs-Avoid,
 Room_Attr: GATE_D1: Vulture-Forbidden,KingVulture-Forbidden,
 Room_Attr: GATE_DH1: Vulture-Avoid,KingVulture-Avoid,
-Room_Attr: GATE_TOWER1: Vulture-Avoid,KingVulture-Avoid,MirosVulture-Avoid,
+Room_Attr: GATE_TOWER1: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
 Room_Attr: GATE_A13: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: GATE_A14: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,RivuletLongLegs-Forbidden,

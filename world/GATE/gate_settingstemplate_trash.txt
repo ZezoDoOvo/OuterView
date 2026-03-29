@@ -1,0 +1,22 @@
+DangerType: Rain
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.7608696
+Grime: 0.5
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 35
+EffectColorA: 0
+EffectColorB: 0
+Effects: Flies-0.2934783-40-40, ModifyEffectColorB-0.4098617,0.05147188,0.3685349-254.7813-96.8, Darkness-0.1855978-20-20, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><780.8192><305.5411><0.7138705><1, OMNI><MSC-ShadowAlley.ogg><738.8406><232.1096><0.5824047><0.8051216, OMNI><RWTW_Amb_DesertWind_01.ogg><791.1228><177.6926><0.2138698><1, OMNI><RWTW_AR_Pumps.ogg><762.8227><338.702><0.1056048><1, OMNI><RWTW_AR_CityWithNoBuildings.ogg><736.5041><494.5141><0.5618664><0.7216029, 
+FadePalette: 9, 0.3170629
