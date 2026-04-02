@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 30
+EffectColorA: 4
+EffectColorB: 5
+AmbientSounds: OMNI><AM_ENV-Forest.ogg><697.0808><535.8567><0.4565217><1, OMNI><AM_RAIN-Rumbles.ogg><733.8323><292.859><0.4021739><1, OMNI><AM_IND-Utility03.ogg><746.7801><447.8023><0.3369565><1, 
+FadePalette: 2, 0.4347826, 0.423913, 0.4347826
+MorePalette0: 1, 0.5, 0.5, 0.5

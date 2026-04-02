@@ -5,8 +5,8 @@
     "hide_version": false,
     "authors": "Invisin",
     "description": "manoel gomes com abacaxi",
-    "requirements": ["slime-cubed.slugbase", "moreslugcats", "watcher", "crs", "nonescreatures", "xuanzebufeng.randomcodestuff", "com.rainworldgame.shroudedassembly.plugin", "Croken.fanged-lizard"],
-    "requirements_names": ["SlugBase", "More Slugcats Expansion", "The Watcher", "Custom Regions Support", "None's Creature Pack", "XuanZeBuFeng's Random Code Stuff", "Shrouded Assembly Code", "Fanged Terrors"],
+    "requirements": ["slime-cubed.slugbase", "moreslugcats", "watcher", "crs", "nonescreatures", "xuanzebufeng.randomcodestuff", "com.rainworldgame.shroudedassembly.plugin", "Croken.fanged-lizard", "RSFatSquidcada", "RSMediumSpider", "floodwaters_utilities_mini"],
+    "requirements_names": ["SlugBase", "More Slugcats Expansion", "The Watcher", "Custom Regions Support", "None's Creature Pack", "XuanZeBuFeng's Random Code Stuff", "Shrouded Assembly Code", "Fanged Terrors", "Bull Squidcada", "Medium Spider", "Floodwaters Utilities Mini"],
     "checksum_override_version": false,
     "tags": ["Regions"]
 }
