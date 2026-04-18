@@ -1,3 +1,4 @@
+DangerType: None
 WaveSpeed: 0.5
 WaveLength: 0.75
 WaveAmplitude: 0.04984784

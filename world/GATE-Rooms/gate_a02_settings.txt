@@ -1,6 +1,7 @@
-WaveSpeed: 0.5
-WaveLength: 1
-WaveAmplitude: 0.04828316
+DangerType: None
+WaveSpeed: 0.5131901
+WaveLength: 0.9934049
+WaveAmplitude: 0.005955581
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Effects: Flies-0.1086956-20-20, Beetle-0.1304348-30-30, 
