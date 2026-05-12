@@ -1,12 +1,12 @@
 Template: NONE
 DangerType: Blizzard
-WaveSpeed: 0.3810112
-WaveLength: 0.9405056
-WaveAmplitude: 0.007142298
+WaveSpeed: 0.3988323
+WaveLength: 0.9494162
+WaveAmplitude: 4.550571E-07
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Palette: 0
-Effects: FWFog-1-20-20, 
-PlacedObjects: SnowSource><-125.5969><1080.675><Radial~-8~128~50~86.60254~1~0, SnowSource><68><1042><Radial~-8~128~50~86.60254~1~0, SnowSource><338><1028><Radial~-34~165~50~86.60254~1~0, SnowSource><564><986><Radial~-8~128~50~86.60254~1~0, SnowSource><814><1054><Radial~-8~128~50~86.60254~1~0, SnowSource><1000><1013.044><Radial~-8~128~50~86.60254~1~1, SnowSource><1171><1028><Radial~-8~128~50~86.60254~1~1, SnowSource><1341><1024><Radial~-8~128~50~86.60254~1~1, SnowSource><1512><1038><Radial~-8~128~50~86.60254~1~1, SnowSource><1747><1062><Radial~-8~128~50~86.60254~1~1, SnowSource><2007><1051><Radial~-8~128~50~86.60254~0.9239131~1, SnowSource><2259><1037.003><Radial~-8~128~50~86.60254~1~1, SnowSource><2387><1004><Radial~-8~128~50~86.60254~0.3586957~1, 
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><747.5051><519.05><0.3152174><1, 
-FadePalette: 4, 0.423913, 0.4347826, 0.4347826, 0.4021739
+Effects: FWFog-1-20-20, Desaturation-1-30-30, 
+PlacedObjects: SnowSource><-116.5969><1067.675><Radial~-8~128~50~86.60254~1~0, SnowSource><68><1042><Radial~-8~128~50~86.60254~1~0, SnowSource><338><1028><Radial~-34~165~50~86.60254~1~0, SnowSource><564><986><Radial~32~222~50~86.60254~1~0, SnowSource><814><1054><Radial~-8~128~50~86.60254~1~0, SnowSource><992><1036.044><Strip~-17~221~50~86.60254~1~1, SnowSource><1107><950.0034><None~-8~128~50~86.60254~0.5217391~1, SnowSource><1344><981><Radial~-8~128~50~86.60254~1~1, SnowSource><1648><961><Radial~-8~128~50~86.60254~1~1, SnowSource><1806><975><Radial~-8~128~50~86.60254~1~1, SnowSource><2032><978><Radial~-8~128~50~86.60254~0.9239131~1, SnowSource><2259><1037.003><Radial~-8~128~50~86.60254~1~1, SnowSource><2382><994><Radial~-8~128~50~86.60254~0.3586957~1, Corruption><2382.814><951.819><0~100, SnowSource><951.9999><927><Strip~0~91~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><747.5051><519.05><0.4456522><1, 
+FadePalette: 4, 0.423913, 0.4347826, 0.4347826

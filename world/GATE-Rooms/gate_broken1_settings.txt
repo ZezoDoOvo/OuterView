@@ -1,3 +1,12 @@
-FadePalette: 29, 0.3913043
-MorePalette0: 5, 0.173913
-MorePalette1: 99, 0.5434783
+Template: NONE
+DangerType: Thunder
+WaveSpeed: 0.41101
+WaveLength: 0.955505
+WaveAmplitude: 8.947447E-07
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+EffectColorA: 5
+EffectColorB: 7
+Effects: FWFog-1-20-20, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><748.8774><518.3419><0.2608696><0.6086956, 
+FadePalette: 4, 0.423913
