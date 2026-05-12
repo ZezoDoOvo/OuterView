@@ -1,8 +1,8 @@
 Template: NONE
 DangerType: Blizzard
-WaveSpeed: 0.3988323
-WaveLength: 0.9494162
-WaveAmplitude: 4.550571E-07
+WaveSpeed: 0.5064554
+WaveLength: 0.9967723
+WaveAmplitude: 0.005717428
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Palette: 0
