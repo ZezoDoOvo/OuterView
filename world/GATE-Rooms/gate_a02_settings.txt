@@ -1,11 +1,12 @@
 Template: NONE
-DangerType: Blizzard
-WaveSpeed: 0.6234121
-WaveLength: 0.9382939
-WaveAmplitude: 3.236153E-11
+DangerType: AerieBlizzard
+WaveSpeed: 0.5093403
+WaveLength: 0.7453299
+WaveAmplitude: 0.04999999
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Palette: 4
-Effects: Desaturation-0.4673913-20-20, FWFog-1-30-30, Darkness-0.6956522-40-40, 
-PlacedObjects: SnowSource><456.6002><356.0769><Radial~-19~63~50~86.60254~1~1, SnowSource><299><341><Radial~-19~63~50~86.60254~1~1, SnowSource><606><349><Radial~-19~63~50~86.60254~1~1, SnowSource><753><372><Radial~-19~63~50~86.60254~1~1, SnowSource><900><347><Radial~-19~63~50~86.60254~1~1, ExitSymbolHidden><1005.792><372.8045><, 
+EffectColorB: 3
+Effects: Desaturation-0.4673913-20-20, Darkness-0.6630435-40-40, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><761.006><515.7><0.4456522><1, OMNI><MSC-MetalVariety.ogg><750.3152><263.4234><0.08695652><1, 
 FadePalette: 4, 0.423913

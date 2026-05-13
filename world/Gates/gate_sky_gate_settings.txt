@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: None
+Effects: SilenceWater-1-20-20, Desaturation-0.326087-34-84, Darkness-0-63-108, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><759.5339><520.1971><0.6304348><0.823913, 
+FadePalette: 4, 0.423913
