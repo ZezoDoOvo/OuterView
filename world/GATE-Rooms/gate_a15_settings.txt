@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Palette: 464
+EffectColorB: 13
+PlacedObjects: RotPlateTree><1246.072><466.5896><-45~115, RotPlateTree><1344.58><498.1047><10~179, Corruption><1286.12><473.09><-5~104, Corruption><356.4657><356.1973><11~69, Corruption><829.989><434><11~69, CorruptionDarkness><1275.935><449.3269><-5~118, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><692.7422><523.5502><0.5><1, 
+FadePalette: 28, 0.6847826, 0.6847826

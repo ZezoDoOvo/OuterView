@@ -1,5 +1,5 @@
-corruptionEffectColor: 0.4, 0.2, 0.8
-corruptionEyeColor: 0.4, 0.1, 0.8
+corruptionEffectColor: 0.3, 0.2, 0.1
+corruptionEyeColor: 0.5, 0.4, 0.2
 overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
@@ -22,3 +22,4 @@ Room_Attr: GATE_DH1: Vulture-Avoid,KingVulture-Avoid,
 Room_Attr: GATE_TOWER1: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
 Room_Attr: GATE_A13: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
 Room_Attr: GATE_A14: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: GATE_A15: Vulture-Forbidden,
