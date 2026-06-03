@@ -1,8 +1,8 @@
 Template: NONE
-DangerType: AerieBlizzard
-WaveSpeed: 0.4987199
-WaveLength: 0.74936
-WaveAmplitude: 0.04999999
+DangerType: Blizzard
+WaveSpeed: 0.4679453
+WaveLength: 0.9839727
+WaveAmplitude: 0.001898901
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Palette: 4

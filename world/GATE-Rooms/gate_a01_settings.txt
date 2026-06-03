@@ -1,12 +1,12 @@
 Template: NONE
-DangerType: AerieBlizzard
-WaveSpeed: 0.4998085
-WaveLength: 0.7499043
-WaveAmplitude: 0.04999999
+DangerType: None
+WaveSpeed: 0.4981343
+WaveLength: 0.9990671
+WaveAmplitude: 3.736809E-07
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Palette: 0
-Effects: Desaturation-1-30-30, Darkness-0.5217391-14-129, FWFog-1-20-20, 
-PlacedObjects: Corruption><2382.814><951.819><0~100, SnowSource><-0.6881714><975.3098><Radial~-155~328~50~86.60254~0.4347826~1, SnowSource><413><1131><Radial~-155~328~50~86.60254~0.7717391~1, SnowSource><1060><1166.994><Radial~-155~328~50~86.60254~0.7717391~1, SnowSource><1679><1068><Radial~-155~328~50~86.60254~0.7717391~1, SnowSource><2336><1120><Radial~-155~328~50~86.60254~0.7717391~1, SnowSource><1027><1094.012><Radial~-155~328~50~86.60254~0.7717391~1, SnowSource><2198><1299.974><Radial~-155~328~50~86.60254~0.7717391~1, 
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><747.5051><519.05><0.4456522><1, 
-FadePalette: 4, 0.423913, 0.4347826, 0.4347826
+Palette: 74
+Effects: FWFog-1-4.347931-61.95555, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><747.5051><519.05><0.4773997><0.6086956, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>outerview1<eA>vol<eB>0.3077326<eA>prio<eB>0.2989363<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>696.1469<tB>218.233<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>799.8646<tB>881.5222<tA>handlePos<tB>-214.6429<tB>-13.31088, 
+FadePalette: 0, 0.28613, 0.28613, 0.2938632
