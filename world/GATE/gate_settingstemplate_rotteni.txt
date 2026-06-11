@@ -1,0 +1,22 @@
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5103939
+Grime: 0.180276
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 38
+EffectColorA: 4
+EffectColorB: 2
+Effects: Contrast-0-30-30, LightBurn-0.1546649-20-20, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><739.7394><519.4949><0.4304007><1, OMNI><AM_ENV-WallHum.ogg><799.4986><425.0205><0.5231993><1, OMNI><RWTW_RotAmb_Swarm.ogg><747.9833><204.9757><0.2498753><1, 
+FadePalette: 13, 0.5326087

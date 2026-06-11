@@ -4,7 +4,7 @@ overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0
-Room Setting Templates: Sky, Trash, Plant
+Room Setting Templates: Sky, Trash, Plant, Rotteni, Rotteno
 Subregion: Abandoned Warehouse
 Subregion: Abandoned Warehouse (Rotten Pipes)
 Subregion: Abandoned Warehouse (No Man's Land)

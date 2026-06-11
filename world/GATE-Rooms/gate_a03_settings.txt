@@ -1,10 +1,5 @@
-Template: NONE
-DangerType: None
+Template: gate_settingstemplate_rotteni
 Clouds: 0.5103939
 Grime: 0.180276
-Palette: 38
-EffectColorA: 4
-EffectColorB: 2
-Effects: LightBurn-0.07733237-20-20, 
 FadePalette: 13, 0.5326087, 0.5326087
 MorePalette0: 1, 0.5217391, 0.5217391
