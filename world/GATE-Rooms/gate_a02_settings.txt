@@ -1,13 +1,7 @@
 Template: NONE
-DangerType: Blizzard
-WaveSpeed: 0.4679453
-WaveLength: 0.9839727
-WaveAmplitude: 0.001898901
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
-Palette: 4
-EffectColorB: 3
-Effects: Desaturation-0.4673913-20-20, Darkness-0.6630435-40-40, 
-PlacedObjects: SnowSource><305.6294><327.8><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><452.0969><360><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><617.8667><347.9111><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><756.6011><359.2889><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><900.3156><345.7778><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><400.8719><455.2889><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><528.9344><472.3555><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><715.3364><483.0222><Radial~8.537506~70.84442~50~86.60254~1~1, SnowSource><832.7271><480.1778><Radial~8.537506~70.84442~50~86.60254~1~1, 
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><761.006><515.7><0.4456522><1, OMNI><MSC-MetalVariety.ogg><750.3152><263.4234><0.08695652><1, 
-FadePalette: 4, 0.423913
+DangerType: None
+Palette: 38
+EffectColorA: 4
+EffectColorB: 2
+FadePalette: 13, 0.6630435
+MorePalette0: 1, 0.7934783
