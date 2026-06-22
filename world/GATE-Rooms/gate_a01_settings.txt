@@ -4,7 +4,8 @@ Clouds: 0.3789291
 Palette: 38
 EffectColorA: 4
 EffectColorB: 2
-Effects: SkyBloom-0.6195652-20-20, 
+Effects: SkyBloom-1-20-20, 
+PlacedObjects: LightBeam><310.5801><850.4889><-352.1719~768.8889~221.4219~764.6223~819.7583~16.35556~147.9834~79.64444~0.1912026~0~0.8815898~1~None~0~0, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><741.0835><516.9912><0.6082644><1, 
 FadePalette: 13, 0.4562613, 0.6133378
 MorePalette0: 1, 0.5335939, 0.5799932

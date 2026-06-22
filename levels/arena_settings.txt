@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0.1701315
+Palette: 301
+EffectColorB: 19
+PlacedObjects: WallLight><114.6814><132.6778><150~50~114.6814~132.6778~0~118.4889~1360.704~27.02224~1357.858~119.2~0~0.5~1~False~SkyColor~False~False~Always~Soft, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><779.7576><523.7695><0.5927987><1, 
+FadePalette: 300, 0.9047894
+BackgroundOffset: 463.9965,463.993
+BackgroundType: atc_pinksky
