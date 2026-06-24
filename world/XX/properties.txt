@@ -1,0 +1,22 @@
+corruptionEffectColor: 0.3, 0.2, 0.1
+corruptionEyeColor: 0.5, 0.4, 0.2
+overseersSpawnChance: 0
+overseersMin: 0
+overseersMax: 0
+playerGuideOverseerSpawnChance: 0
+Room Setting Templates: Sky, Trash, Plant, Rotteni, Rotteno
+Subregion: Abandoned Warehouse
+Subregion: Abandoned Warehouse (Rotten Pipes)
+Subregion: Abandoned Warehouse (No Man's Land)
+Subregion: Abandoned Warehouse (Rotten Field),
+Room_Attr: XX_A01: PinkLizard-Avoid,Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,BigJelly-Avoid,RivuletLongLegs-Forbidden,Hoverfly-Avoid,FatFireFly-Avoid,FlyingBigEel-Avoid,MiniFlyingBigEel-Avoid,Tailfly-Avoid,
+Room_Attr: XX_Broken1: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: XX_A02: PinkLizard-Avoid,Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: XX_A03: Vulture-Avoid,SkyWhale-Forbidden,SisterLongLegs-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: XX_A04: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: XX_A05: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: XX_A06: PinkLizard-Avoid,BigJelly-Like,RivuletLongLegs-Avoid,Hoverfly-Like,FatFireFly-Like,FlyingBigEel-Like,MiniFlyingBigEel-Like,Tailfly-Like,
+Room_Attr: XX_TOWER1: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: XX_A13: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,
+Room_Attr: XX_A14: Vulture-Forbidden,CicadaA-Forbidden,CicadaB-Forbidden,Centiwing-Forbidden,KingVulture-Forbidden,MirosVulture-Forbidden,RivuletLongLegs-Forbidden,
+Room_Attr: XX: Vulture-Forbidden,
