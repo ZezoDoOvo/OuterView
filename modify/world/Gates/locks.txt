@@ -1,1 +1,1 @@
-[ADD]GATE_POLE_XX : 3 : 4
+[ADD]GATE_POLE_XZ : 3 : 4

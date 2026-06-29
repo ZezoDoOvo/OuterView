@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: None
+Palette: 38
+AmbientSounds: OMNI><AM_ENV-WindGrass.ogg><777.3141><418.8239><0.4021739><1, 
+FadePalette: 13, 0.4891304, 0.4891304
+MorePalette0: 1, 0.5217391, 0.5326087

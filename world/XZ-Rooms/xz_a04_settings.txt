@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Clouds: 0.7608696
+Palette: 38
+EffectColorA: 4
+EffectColorB: 2
+Effects: SkyBloom-0.5-20-20, 
+PlacedObjects: SuperSlope><350.314><1155.189><632~-30~61, CurvedSlope><1230.471><1121.198><61~121^-9~97^1~83^-1~, 
+FadePalette: 13, 0.4782609, 0.4891304, 0.4891304, 0.4891304
+MorePalette0: 1, 0.5217391, 0.5217391, 0.5108696, 0.5108696
