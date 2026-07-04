@@ -5,11 +5,11 @@ WaveLength: 0.9474413
 WaveAmplitude: 0.03637423
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Clouds: 0
+Clouds: 0.6630435
 Palette: 2
-TerrainLight: 0.6195652
+TerrainLight: 0.4782609
 TerrainStainAmount: 0.5652174
-TerrainWaves: 1
+TerrainWaves: 0.6956522
 TerrainEdgeRadius: 159.9999
 TerrainGooHeight: 0.09782609
 TerrainGrain: 0.2521734

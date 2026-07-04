@@ -5,6 +5,7 @@ Palette: 38
 EffectColorA: 4
 EffectColorB: 2
 Effects: SkyBloom-0.5-20-20, 
-PlacedObjects: SuperSlope><350.314><1155.189><632~-30~61, CurvedSlope><1230.471><1121.198><61~121^-9~97^1~83^-1~, 
+PlacedObjects: SuperSlope><350.314><1155.189><632~-30~61, CurvedSlope><1230.471><1121.198><61~130^-10~97^1~92^-2~, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><754.2928><519.4454><0.3152174><1, OMNI><AM_ENV-WindGrass.ogg><745.0895><415.1194><0.2391304><1, 
 FadePalette: 13, 0.4782609, 0.4891304, 0.4891304, 0.4891304
 MorePalette0: 1, 0.5217391, 0.5217391, 0.5108696, 0.5108696
