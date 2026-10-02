@@ -6,7 +6,7 @@ WaveAmplitude: 0.03637423
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0.6630435
-Palette: 2
+Palette: 5
 TerrainLight: 0.4782609
 TerrainStainAmount: 0.5652174
 TerrainWaves: 0.6956522
