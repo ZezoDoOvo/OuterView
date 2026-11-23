@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 13
+EffectColorA: 2
+EffectColorB: 3
+TerrainDepth: 5
+PlacedObjects: LightSource><254.4011><571.131><0.5~EffectColor1~-45~178~50~86.60254~0~1~None~0~0, LightSource><407><568><0.5~EffectColor1~-45~178~50~86.60254~0~1~None~0~0, LightSource><254><569><0.5~EffectColor1~-45~178~50~86.60254~0~0~None~0~0, LightSource><409><569><0.5~EffectColor1~-45~178~66~43.60254~0~0~None~0~0, DangleFruit><274.1893><333.5646><0~0~2~3, DangleFruit><397.6938><368.7004><0~0~2~3, Pomegranate><630.0657><617.5777><-418.6795~-15~7~10~52~55, 
+FadePalette: 30, 0.5978261, 0.5978261

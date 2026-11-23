@@ -1,22 +1,10 @@
 Template: NONE
 DangerType: None
-WaveSpeed: 0.4908827
-WaveLength: 0.9474413
-WaveAmplitude: 0.03637423
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
-Clouds: 0.6630435
-Palette: 5
-TerrainLight: 0.4782609
-TerrainStainAmount: 0.5652174
-TerrainWaves: 0.6956522
-TerrainEdgeRadius: 159.9999
-TerrainGooHeight: 0.09782609
-TerrainGrain: 0.2521734
-TerrainDepth: -0.3804344
-TerrainSkyFade: 0.7608696
-TerrainPalette: tomb
-PlacedObjects: TerrainHandle><604.6143><-4.353149><-63~-10~40~0~58, TerrainHandle><764.3077><31.80487><-40~0~59~7~20, TerrainHandle><986.9647><58.19684><-43~-3~43~0~20, TerrainHandle><1109.55><31.00571><-40~0~59~-11~20, TerrainHandle><1499.098><57.32571><-61~-15~40~0~20, TerrainHandle><1974.799><38.94385><-40~0~58~-3~20, TerrainHandle><2181.449><7.977539><-40~0~61~-9~20, TerrainHandle><2334.426><23.09433><-40~0~44~-2~20, TerrainHandle><2477.815><5.824951><-46~13~41~-5~20, TerrainHandle><2689.643><30.33087><-45~-5~40~0~20, TerrainHandle><2910.622><44.65869><-40~0~97~12~20, TerrainHandle><3224.815><101.1733><-121~4~40~0~20, TerrainHandle><3384.329><85.35355><-40~0~40~0~62, 
-AmbientSounds: OMNI><AM_ENV-Pasture.ogg><753.761><461.4031><0.5><1, 
-FadePalette: 9, 0.6304348, 0.6195652, 0.6304348
-MorePalette0: 28, 0.5217391, 0.5217391, 0.5217391
+Clouds: 0
+Palette: 13
+EffectColorA: 2
+EffectColorB: 5
+Effects: LightRain-0.3043478-20-20, 
+PlacedObjects: CurvedSlope><684.3201><50.33725><26~76^8~33^12~38^7~, 
+AmbientSounds: SPOT><tm_metalgroans.ogg><696.6747><548.4027><0.2065217><1><1560.675><194.4027><-303.3553><0.6446533><0><0.1869567, 
+FadePalette: 30, 0.5869565, 0.5869565
